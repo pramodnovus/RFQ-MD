@@ -1,0 +1,6 @@
+{
+  "target_group": "FSI executives (remotely or in person) leading Consumer/Small business engagements/interactions/inbound & outbound strategy",
+  "loi": "approximately 25 Minutes",
+  "location": "Europe, APAC, LATAM, North America",
+  "project_type": "Primary research"
+}

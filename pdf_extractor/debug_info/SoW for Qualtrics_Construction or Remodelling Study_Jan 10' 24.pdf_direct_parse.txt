@@ -1,0 +1,1 @@
+{'target_group': 'Unimrkt will target the respondents working in new construction/remodelling or primarily working in Cabinetry (i.e., purchasing decision-maker or installer)', 'loi': 'approximately 30 minutes', 'location': 'United States', 'project_type': 'Construction or Remodelling Study'}

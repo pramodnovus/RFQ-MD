@@ -1,0 +1,1 @@
+{'target_group': 'Dentists fulfilling the below mentioned criteria:', 'loi': '45-50 minutes', 'location': 'Country Language Sample: France French 40, Total Sample (n=) 40', 'project_type': 'Dental Implant Suppliers Survey'}

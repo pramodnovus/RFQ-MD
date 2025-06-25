@@ -1,0 +1,6 @@
+{
+  "target_group": "Residential/Commercial Floor Contractors and General Contractors who have done coated concrete garage floor repairs in the past 12 months.",
+  "loi": "approximately 20-25 minutes",
+  "location": "United States",
+  "project_type": "Primary research"
+}

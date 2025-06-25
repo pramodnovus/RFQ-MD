@@ -1,0 +1,6 @@
+{
+  "target_group": "NY/NJ Manufacturing Decision Makers of Director Level+ seniority",
+  "loi": "20-25 Minutes",
+  "location": "United States (Country), NY and NJ (Region/Geography)",
+  "project_type": "Primary research on NY and NJ Food Manufacturers Survey"
+}

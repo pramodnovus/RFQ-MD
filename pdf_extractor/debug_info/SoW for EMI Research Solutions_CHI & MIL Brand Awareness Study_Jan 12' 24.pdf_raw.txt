@@ -1,0 +1,6 @@
+{
+  "target_group": "full-time employees who have some level of responsibility while making decision for commercial banking at their organization",
+  "loi": "20-25 Minutes",
+  "location": "Chicago, Southeast Winscoin (Milwaukee area)",
+  "project_type":"CHI & MIL BRAND AWARENESS STUDY"
+}

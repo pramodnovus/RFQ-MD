@@ -1,0 +1,6 @@
+{
+  "target_group": "Full Time/Part Time employees",
+  "loi": "30-35 Minutes",
+  "location": "Germany, Country",
+  "project_type": "Software Space Survey"
+}

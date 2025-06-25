@@ -1,0 +1,1 @@
+{'target_group': 'Independent Financial Advisors', 'loi': '25-30 minutes', 'location': 'Brazil', 'project_type': 'Primary research on Brazilian IFA Survey'}

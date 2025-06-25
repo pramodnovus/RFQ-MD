@@ -1,0 +1,1 @@
+{'target_group': 'Lab Managers/Directors 20, Pathologists 65', 'loi': '25-30 Minutes', 'location': 'United States', 'project_type': 'Triple Staining VoC Study'}

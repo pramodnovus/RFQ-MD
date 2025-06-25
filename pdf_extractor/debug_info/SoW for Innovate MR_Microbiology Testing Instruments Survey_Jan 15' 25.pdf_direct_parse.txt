@@ -1,0 +1,1 @@
+{'target_group': 'Lab Director, Lab Manager, Lab Supervisor, Biologist, Microbiologist', 'loi': '30-40 minutes', 'location': 'United States', 'project_type': 'Microbiology Testing Instruments Survey'}

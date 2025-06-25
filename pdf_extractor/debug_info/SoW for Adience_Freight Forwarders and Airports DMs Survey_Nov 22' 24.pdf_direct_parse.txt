@@ -1,0 +1,1 @@
+{'target_group': 'Freight Forwarders and Airports DMs', 'loi': '25-30 Minutes', 'location': 'Global', 'project_type': 'Primary Research'}

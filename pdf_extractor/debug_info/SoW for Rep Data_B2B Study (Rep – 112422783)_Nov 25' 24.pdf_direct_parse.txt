@@ -1,0 +1,1 @@
+{'target_group': 'Unimrkt will target the respondents who are very involved with at least one risk compliance area.', 'loi': '20-25 minutes', 'location': 'United States', 'project_type': 'B2B STUDY'}

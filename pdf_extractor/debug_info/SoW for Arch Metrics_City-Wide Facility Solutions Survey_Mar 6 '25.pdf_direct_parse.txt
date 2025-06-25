@@ -1,0 +1,1 @@
+{'target_group': 'primary decision-makers for facility maintenance services of commercial properties (e.g. the person deciding what firm cleans an office property)', 'loi': 'approximately 20-30 Minutes', 'location': 'United States', 'project_type': 'City-Wide Facility Solutions Survey'}

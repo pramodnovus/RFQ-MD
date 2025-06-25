@@ -1,0 +1,6 @@
+{
+  "target_group": "Unimrkt will target respondents who: • Must be currently affiliated with bank or broker-dealer • Must handle Annuities as a financial product • Must currently represent Prosperity Life's annuities",
+  "loi": "20-25 minutes",
+  "location": "United States",
+  "project_type": "Product Retention Survey"
+}

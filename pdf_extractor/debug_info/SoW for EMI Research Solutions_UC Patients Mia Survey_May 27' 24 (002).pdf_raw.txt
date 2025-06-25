@@ -1,0 +1,6 @@
+{
+  "target_group": "Unimrkt will target consumers of 25-60 years of age with an ailment of Ulcerative Colitis",
+  "loi": "30-35 Minutes",
+  "location": "United States",
+  "project_type": "Primary research on UC Patients Mia Survey"
+}

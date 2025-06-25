@@ -1,0 +1,1 @@
+{'target_group': 'Programmatic Marketers', 'loi': '20-25 minutes', 'location': 'United States, United Kingdom, France, Germany', 'project_type': 'Primary research'}

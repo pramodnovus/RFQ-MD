@@ -1,0 +1,1 @@
+{'target_group': 'CIOs who are currently using SAP as their IT provider', 'loi': '30-35 minutes', 'location': 'United States, Europe, Rest of World', 'project_type': 'Enterprise Software Survey'}

@@ -1,0 +1,1 @@
+{'target_group': '18+ Opticians selling contact lenses online or in-store', 'loi': '20-25 minutes', 'location': 'Switzerland (Country), English/German (Language)', 'project_type': 'Optical Lenses Survey'}

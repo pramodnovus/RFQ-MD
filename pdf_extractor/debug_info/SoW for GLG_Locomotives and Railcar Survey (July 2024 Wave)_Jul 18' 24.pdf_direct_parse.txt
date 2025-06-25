@@ -1,0 +1,1 @@
+{'target_group': 'Director+ personnel involved in purchasing decisions of locomotives/railcars-or familiar with refurbishing / repair / maintenance / re-commissioning aspects of the locomotive business', 'loi': '20-25 Minutes', 'location': 'United States English 25', 'project_type': 'Locomotives and Railcar Survey'}

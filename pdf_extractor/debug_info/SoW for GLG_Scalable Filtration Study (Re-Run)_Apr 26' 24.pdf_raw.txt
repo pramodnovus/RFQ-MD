@@ -1,0 +1,6 @@
+{
+  "target_group": "Unimrkt will target professionals fulfilling the below criteria: • Must have experience in using filters and scaling products • Must have experience culturing cells from small volumes to larger volumes • Must have experience with protein or biotherapeutics (Human or Veterinary)",
+  "loi": "25-30 minutes",
+  "location": "United Kingdom, Germany, France, Italy, Spain, China, India, Japan",
+  "project_type":"Scalable Filtration Study (Re-Run)"
+}

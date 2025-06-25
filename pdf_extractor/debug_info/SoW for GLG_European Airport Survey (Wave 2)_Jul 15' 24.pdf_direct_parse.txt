@@ -1,0 +1,1 @@
+{'target_group': 'full-time or part-time employees who are at least moderately knowledgeable about the current airport outlook and can comment on the recovery outlook to pre COVID-19 levels.', 'loi': 'approximately 20-25 minutes', 'location': 'Italy, Spain, United Kingdom, Germany, France, Best Efforts (multiple countries)', 'project_type': 'Aviation, Airport'}

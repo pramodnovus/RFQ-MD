@@ -1,0 +1,1 @@
+{'target_group': 'Senior Decision Makers responsible for selecting a vendor for security training/awareness', 'loi': '15-20 minutes', 'location': 'Europe, United States', 'project_type': 'Cybersecurity and Training Survey'}

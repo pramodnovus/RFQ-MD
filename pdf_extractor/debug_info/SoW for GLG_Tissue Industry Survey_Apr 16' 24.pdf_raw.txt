@@ -1,0 +1,6 @@
+{
+  "target_group": "Unimrkt will target the respondents fulfilling the below mentioned criteria: • Have decision-making responsibilities in the procurement and distribution of tissue products • Must be familiar of tissue brands such as Sofidel, Kleenex, Renova, Kimberly-Clark, etc. Target Roles: • Procurement Managers+ • Operations Managers+ • Other related Titles",
+  "loi": "approximately 20-25 Minutes.",
+  "location": "Region Language Sample Europe (EU5) English 40 Total Sample (n=) 40 Target Industry: Unimrkt will target Retal/Super Markets/F&B industries for this survey.",
+  "project_type": "Primary research on Tissue Industry Survey"
+}

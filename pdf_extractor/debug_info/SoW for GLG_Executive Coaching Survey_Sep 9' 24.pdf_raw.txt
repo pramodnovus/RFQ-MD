@@ -1,0 +1,6 @@
+{
+  "target_group": "Manager+ roles under the below mentioned titles: • Owner/Founder • C-Suite • VP • Director • Manager",
+  "loi": "approximately 25-30 Minutes",
+  "location": "Country Language Sample United States English",
+  "project_type": "Executive Coaching Survey"
+}

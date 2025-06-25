@@ -1,0 +1,1 @@
+{'target_group': 'Roofers, Steel Fabricators, Modular Building Manufacturers, Concrete Contractors, Supply Houses', 'loi': '15-20 Minutes', 'location': 'Cities: Charlotte, North Carolina; St. Louis, Missouri; Cleveland, Ohio; Nashville, Tennessee; Denver, Colorado', 'project_type': 'Primary research on Facility Workers Study'}

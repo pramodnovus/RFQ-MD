@@ -1,0 +1,6 @@
+{
+  "target_group": "Surgeons in Neuro, Spinal, Radiosurgery and Functional Surgery. Key Decision-Makers in Hospitals in procurement responsible for purchasing Neuro, Spinal, Radiosurgery and Functional Surgery",
+  "loi": "25-30 Minutes",
+  "location": "Germany, United Kingdom, United States",
+  "project_type": "Workflow Automation Survey"
+}

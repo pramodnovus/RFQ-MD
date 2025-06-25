@@ -1,0 +1,6 @@
+{
+  "target_group": "resellers of MSFT Azure",
+  "loi": "20-25 Minutes",
+  "location": "United States",
+  "project_type": "MSFT Azure Resellers Survey (April 2024 Wave)"
+}

@@ -1,0 +1,6 @@
+{
+  "target_group": "Unimrkt will target full time Senior Managers, Heads, Directors & C-suites roles for this study.",
+  "loi": "approximately 30-35 Minutes",
+  "location": "regions: Europe, Middle East; countries: Africa",
+  "project_type": "Primary research on Digital Transformation in Manufacturing Survey"
+}

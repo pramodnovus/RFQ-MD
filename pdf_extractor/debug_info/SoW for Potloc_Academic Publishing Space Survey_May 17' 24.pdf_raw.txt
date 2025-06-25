@@ -1,0 +1,6 @@
+{
+  "target_group": "Librarians at Universities/Central Library and self-funded authors publishing in the academic space",
+  "loi": "25-30 minutes",
+  "location": "Global, English-speaking region",
+  "project_type": "Academic Publishing Space Survey"
+}

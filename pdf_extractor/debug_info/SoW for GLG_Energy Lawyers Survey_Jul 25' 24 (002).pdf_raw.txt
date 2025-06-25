@@ -1,0 +1,6 @@
+{
+  "target_group": "General Counsel, Deputy GC, Assistant GC, Chief Legal Office, In-House Corporate Counsel, Head of Litigation, Other Legal professionals involved in litigation evaluation, decision making or strategy",
+  "loi": "20-25 minutes",
+  "location": "North America, Latin America, Europe, Middle East, Africa, Asia, Australia",
+  "project_type": "ENERGY LAWYERS SURVEY"
+}

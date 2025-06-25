@@ -1,0 +1,6 @@
+{
+  "target_group": "B2B teachers who are focusing on education software end-users (e.g., teachers), and are able to speak to different platforms (e.g. Pickatale, ILT, Lixplore, Kurzweil, TextHelp, Rosetta Stone, Liber, Sanoma) on topics incl. usage, product differentiation, NPS.",
+  "loi": "25-30 minutes",
+  "location": "Sweden, United Kingdom, Norway, Finland",
+  "project_type": "Education Software Survey"
+}

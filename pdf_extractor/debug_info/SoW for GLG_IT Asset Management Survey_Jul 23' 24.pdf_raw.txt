@@ -1,0 +1,6 @@
+{
+  "target_group": "Director+, Seniority",
+  "loi": "20-25 minutes",
+  "location": "United States, Country Language Sample",
+  "project_type": "IT Asset Management Survey"
+}

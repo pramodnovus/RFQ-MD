@@ -1,0 +1,6 @@
+{
+  "target_group": "All working in upstream bioprocessing, using single use stirred tank bioreactors, working at clinical and commercial stage of production.",
+  "loi": "30-35 Minutes",
+  "location": "North America (50%), Europe (20%), China (20%), Other Asia (10%)",
+  "project_type": "BIOREACTORS STUDY"
+}

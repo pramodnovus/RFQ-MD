@@ -1,0 +1,6 @@
+{
+  "target_group": "Unimrkt will target the metalworking organizations under the following: • General Manufacturing (Minimum 100n) o Metal fabrication (any general fab/job shop, machine shop or type of metalworking site): o Sheet metal shop: o Equipment production (makes containers/tools/parts used by other manufacturers such as food/bev, pharma, automotive) o Foundry • Transportation (Minimum 100n) o Automotive manufacturer (OEM, Tier I, Tier II – includes suppliers to auto manufacturers) o Truck/trailer maintenance (must do welding, metal work; includes damage repair) o Train/railway construction and maintenance • Aerospace and Defence",
+  "loi": "30 Minutes",
+  "location": "United States",
+  "project_type": "METALWORKING BUSINESS DMS SURVEY"
+}

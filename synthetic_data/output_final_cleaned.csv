@@ -1,0 +1,375 @@
+id,name,target_group_cleaned,target_group_bucket,loi_minutes,location_cleaned
+1,B2B_Coffee_Manufacturer__Retail,Coffee Manufacturers Retailers,it,45,
+2,SoW_for_Atheneum_Access_Landscape_Research_Study_May_125,Medical Directors,healthcare,30,United States
+3,SoW_for_Atheneum_Acquired_Fibrinogen_Study_Mar_21_25,Healthcare Practitioners,healthcare,30,United States
+4,SoW_for_Atheneum_Alarm_System_Landscape_Survey_Apr_7_25,Decisionmakers At Alarm Systems Integrators And Distributors,b2b,15,United States
+5,SoW_for_Atheneum_CASGEVY_Message_Testing_Study_May_825,Haematologiststransplanters,other,30,United States
+6,SoW_for_Atheneum_Chemical_DMs_Study_May_6_25,Decision Maker Buyers Or Users,consumer,20,United States
+7,SoW_for_Atheneum_GLP-1_Agonists_-_HK_Survey_Mar_6_25,Licensed Doctors Or Doctors,healthcare,50,Hong Kong
+8,SoW_for_Atheneum_Haematologists_Treating_Myelofibrosis_Study_Apr_29_25,Haematologists Treating Myelofibrosis,other,30,Canada
+9,SoW_for_Atheneum_HCPs_Study_Apr_1425,Healthcare Professionals,healthcare,60,Germany
+10,SoW_for_Atheneum_Healthcare_Professionals_Survey_May_19_25,Healthcare Professionals,healthcare,30,United States
+11,SoW_for_Atheneum_Health_System_Decision_Makers_Study_Mar_19_2025,Health System Decision Makers,other,15,United States
+12,SoW_for_Atheneum_Health_System_Decision_Makers_Study_Nov_25_24,Health System Decision Makers,other,30,United States
+13,SoW_for_Atheneum_HER2m_NSCLC_Study_May_825,Medhem Oncologistspulmonologists,healthcare,30,United States
+14,SoW_for_Atheneum_Hospitals_and_Health_Systems_Survey_May_29_25,Hospitals And Health Systems,healthcare,20,United States
+15,SoW_for_Atheneum_Infectious_Disease_Specialists_Study_Feb_12_25,Infectious Disease Specialists,other,45,United States
+16,SoW_for_Atheneum_Medical_Physics_Study_May_8_25,Decision Makers,other,,United States
+17,SoW_for_Atheneum_Microbial_Cell_Line_Solutions_Study_May_19_25,Healthcare Professionals,healthcare,15,United States
+18,SoW_for_Atheneum_Neurologists_Study_Feb_20_25,Neurologistsneuromuscular Specialistsneuroimmunologistsmovement Disorder Specialist Neurologists,other,40,United States
+19,SoW_for_Atheneum_NSCLC_Nurse_Navigators_and_Practice_Managers_Study_May_1325,Nurse Navigatorspractice Managersnurses,healthcare,40,United States
+20,SoW_for_Atheneum_Oncologists_KOLs_Study_Feb_24_25,Medicalheme Oncologists Kols Who Treat Chronic Lymphocytic Leukemia Cll Patients,healthcare,30,United States
+21,SoW_for_Atheneum_Pediatric_Insights_Study_May_19_25,Paediatriciandermatologists Paediatric,other,20,"United Kingdom, Italy, France, Germany, Spain"
+22,SoW_for_Atheneum_Pharmacy_Directors_MACR_2025_Study_Apr_725,Pharmacy Directors,b2b,30,United States
+23,SoW_for_Atheneum_Physicians_Board-certified_Ophthalmology_Survey_Jun_4_25,Physicians Boardcertified,healthcare,20,United States
+24,SoW_for_Atheneum_Physician_Quant_Study_May_2_25,Physician Quant Studyindividuals Who Meet The Following Criteria Have More Than Years,healthcare,20,United States
+25,SoW_for_Atheneum_Pluvicto_Survey_Wave_2_May_22_25 (1),Nuclear Support Staff,other,30,United States
+26,SoW_for_Atheneum_Pluvicto_Survey_Wave_2_May_22_25,Nuclear Support Staff,other,30,United States
+27,SoW_for_Atheneum_Preventive_Migraine_Study_Apr_25_25,Neurologists Prophylactically Treating Paediatric Patients Aged Suffering,healthcare,35,"Australia, Brazil, Canada, Israel, Japan, China"
+28,SoW_for_Atheneum_Pricing_Strategy_of_Cancer_Treatment_Study_Feb_20_25,Medical Clinical Oncologists,healthcare,30,Malaysia
+29,SoW_for_Atheneum_Public_Channel_Sizing_Study_Jan_13_25,Distributors,b2b,20,Philippines
+30,SoW_for_Atheneum_Pulmonologists_and_Infectious_Disease_Specialists_Stu_vpkX2CE,Pulmonologists And Infectious Disease Specialists,other,15,United States
+31,SoW_for_Atheneum_Sacral_Neuromodulation_Devices_SNMD_and_Botox_Therapy_14dF8m7,Medical Device Or Pharma Company Providing Snmd Implants Or Botox Therapyhealthcare Organisations,healthcare,10,"Norway, Ireland, Switzerland, United States, Australia, Israel, Sweden, Netherlands, Canada, Belgium, Germany, United Arab Emirates, United Kingdom, France, Japan, Italy, Saudi Arabia, Spain"
+32,SoW_for_Atheneum_STD_and_Long_Term_Care_Survey_Mar_27_25,Health Care Professionals,other,10,United States
+33,SoW_for_Atheneum_TAVI_and_Ortho_Study_Wave_2_May_23_25,Heads,other,20,
+34,SoW_for_Atheneum_TAVI_Study_Feb_10_25,Cardiologistsorthopaedic Surgeons,other,35,"India, Germany, Spain, Brazil"
+35,SoW_for_Atheneum_Transplant_Nephrology_Study_Jan_13_25,Renal Transplant Surgeonstransplant Nephrologists,other,17,United States
+36,SoW_for_Atheneum_Urology_and_Medical_Oncology_Study_May_20_25,Urologymedical Oncology,healthcare,20,United States
+37,SoW_for_Atheneum_Vaccine_Study_Jan_13_25,Health System Decision Makers,other,45,United States
+38,SoW_for_Atheneum_Vial_Study_Feb_11_25,Billing Codinginfusion Nursepractice Managerpharmacist,healthcare,30,United States
+39,SoW_for_Cint_Opinion_Leaders_Survey_Jan_7_25,Opinion Leaders,other,35,Azerbaijan
+40,SoW_for_Oxford_Economics_IBM_Global_Pulse_Wave_8_CFOs_Use_of_AI_2024_S_HL9O5T8 (1),Cfos And Other Equivalent Job Titles,other,15,"Australia, Germany, India, Singapore, United Kingdom, United States"
+41,SoW_for_Oxford_Economics_IBM_Global_Pulse_Wave_8_CFOs_Use_of_AI_2024_S_HL9O5T8,Cfos And Other Equivalent Job Titles,other,15,"Australia, Germany, India, Singapore, United Kingdom, United States"
+42,SoW_for_Oxford_Economics_IBV_Grid_Modernization_Survey_Dec_2_24_DD (1),Not Mentioned,other,30,Canada
+43,SoW for Cint_Opinion Leaders Survey_Jan 7' 25, Respondents Fulfilling The Below Mentioned Criteria,other,35,
+44,SoW_for_pro_Sapient_Association_Management_Software_Survey_Jan_3_25,Unimrkt Will Target The Respondents Fulfilling The Below Mentioned Criteria Must Belong To A Member Organization Eg Trade Unions Alumni Organizations Etc Must Be Purchasing Association Management Software Solutions Such As Protech Nimble Altai And Fonteva,it,25,
+45,SoW_for_Pro_Sapient_Auction_Platforms_Study_Jan_20_25,Buyers And Sellers At Auction Platforms,it,50,"Netherlands, Belgium, Sweden, Norway"
+46,SoW_for_pro_Sapient_Capital_Markets_Software_Study_Jan_20_25,Decision Makers Involved,other,40,United States
+47,SoW_for_pro_Sapient_Geotechnical_Service_Industry_Study_Jan_21_25,Large General Contractorinfrastructure And Construction Companiesreal Estate Developers,it,30,"Spain, Romania, Mexico"
+48,SoW_for_pro_Sapient_i4CP_Community_Study_Jan_20_25,Icps Existing List And Prospective Customers,other,30,United States
+49,SoW_for_pro_Sapient_Speech_Language_Pathologists_Study_Jan_20_25,Speech Language Pathologists Prescribing Aacs Augmentative And Alternative Communication Devices,other,35,United States
+50,SoW_for_pro_Sapient_UTV_Purchasing_Decision-Makers_Survey_Jan_3_25,Unimrkt Will Target Respondents Fulfilling The Below Mentioned Criteria Must Be Key Purchasing Decisionmakers,other,60,"United States, United Kingdom, Germany, France, Italy, Spain"
+51,Unimrkt_SOW_254-24-_Brand_Tracker_For_Adhesive_Manufacturer,Oem Design Manufacturingmaintenance Operationsshe Regulatory Environmentpurchasing Procurementtechnical Design Engineeringautomotive Maintenance Repair Professionals,it,20,"Australia, Belgium, Canada, India, Italy, Japan, Malaysia, Netherlands, Philippines, Romania, Saudi Arabia, Singapore, Spain, Sweden, Viet Nam"
+52,SoW_for_Atheneum_HAE_Patients_Survey_Apr_3_25,Hae Patients Aged Or Older Who Have Been Diagnosed,healthcare,4,United States
+53,SoW_for_Atheneum_PET_Technicians_Study_Mar_27_25,Pet Technicians,it,25,United States
+54,SoW_for_Celent_Banks_Compliance_Survey_Jan_23_25,Fraud And Antimoney Laundering Executives Across Business Ie Compliance Technology And Operations,it,30,United States
+55,B2B_Brand_Tracker_SOW_5glcNTN,Sector Digital Industries Mobility Smart Infrastructure Audience Traditional Audience Decisionmakers And Influencers Digital Audience Decisionmakers And Influencers,it,25,
+56,SoW_for_Atheneum_Diffuse_Large_B-Cell_Lymphoma_DLBCL_Treatment_Study_Feb_3_25,Physicians Who Are Involved,healthcare,20,"United States, United Kingdom, Germany, France, Japan"
+57,SoW_for_Atheneum_Cell_Therapy_study_Jan_13_25_1 (1),Pharma Cdmo,other,25,
+58,SoW_for_Atheneum_Cell_Therapy_study_Jan_13_25_1,Pharma Cdmo,other,25,
+59,SoW_for_Atheneum_Fertility_Specialists_Survey_Jan_13_25_1,Fertility Experts,other,10,"United States, United Kingdom, France, Spain, Italy"
+60,SoW_for_Atheneum_Healthcare_Stakeholders_Study_June_2_25,Homecare Stakeholders,other,30,"Germany, France"
+61,SoW_for_Atheneum_Lyme_Disease_Study_Jan_13_25,Lab Director Lab Manager N Department Head Vpexecutive Directorceo,b2b,25,United States
+62,SoW_for_Atheneum_Neurologists_Study_Feb_20_25_v4NVS7H,Neurologists Neuromuscular Specialists Neuroimmunologists Movement Disorder Specialist Neurologists,other,40,United States
+63,SoW_for_Atheneum_PBC_and_axSpA_Study_Apr_3_25,Rheumatologists Hepatologists Gastroenterologists Total N ,other,15,"United Kingdom, Germany, France, United States"
+64,SoW_for_Atheneum_PCPs_and_Neurologists_Survey_May_22_25,Pcps And Neurologists,other,30,United States
+65,SoW_for_Atheneum_PEComa_Study_May_20_25,Medical Or Hematological Oncologists Or Sarcoma Specialists Who Have Treated At Least One Malignant Pecoma Patient,healthcare,40,United States
+66,SoW_for_Atheneum_RegOnco_Survey_Mar_6_25,Gastrooncologists And Hepatologists,healthcare,60,"United States, United Kingdom, Germany, France, Spain"
+67,SoW_for_Atheneum_Surgical_Product_Procurement_Study_Jan_6_25,Surgeons Surgical Purchasing Line Leads,other,15,"United States, United Kingdom, France, Italy, Spain, Germany"
+68,SoW_for_Celent_Banks_Compliance_Survey_Jan_23_25 (1),Fraud And Antimoney Laundering Executives Across The Business Ie Compliance Technology And Operations,it,30,United States
+69,SoW_for_Celent_Banks_Compliance_Survey_Jan_23_25 (2),Fraud And Antimoney Laundering Executives Across The Business Ie Compliance Technology And Operations,it,30,United States
+70,SOW_for_Coleman_Parkes_Human_to_AI_Agent_CP4179,Unimrkt Will Target Fsi Executives Remotely Or,b2b,25,
+71,SoW_for_IDC_Consulting_Microsoft_CNAPP_Study_January_2025_Feb_24_25,Individuals Fulfiling The Below Mentioned Criteria Must Be Involved,consumer,15,United States
+72,SoW_for_M3_Global_Research_Project_Antigia_Pharma_B2B_Survey_Jan_20_25_1,Head,other,15,
+73,SoW_for_Oxford_Economics_IBM_2025_Talent_and_Skills_Survey_Dec_10_24_DD (1),,other,30,
+74,SoW_for_Oxford_Economics_IBM_2025_Talent_and_Skills_Survey_Dec_10_24_DD,,other,30,"United States, Saudi Arabia, United Arab Emirates, United Kingdom, Japan, Singapore, Indonesia, Australia, Netherlands, Brazil, Canada, France, Germany, India, Mexico, Sweden, Spain, South Africa, Hong Kong"
+75,SoW_for_Oxford_Economics_IBV_Grid_Modernization_Survey_Dec_2_24_DD,,other,,
+76,SoW_for_pro_Sapient_Fire_Protection_Services_Study_Jan_20_25 (1),Fire Protection Professionals Facilities Management Leaders Construction Pms Quantity Surveyors,other,30,United States
+77,SoW_for_pro_Sapient_Fire_Protection_Services_Study_Jan_20_25,Fire Protection Professionals Facilities Management Leaders Construction Pms Quantity Surveyors,other,30,United States
+78,SoW_for_pro_Sapient_i4CP_Community_Study_Jan_20_25 (1),Customers,other,30,United States
+79,SoW_for_pro_Sapient_i4CP_Community_Study_Jan_20_25 (2),Icp Member Community Including Events Peertopeer Networking And Data And Insights Tailored,it,30,United States
+80,SoW_for_Pro_Sapient_IT_Infrastructure_Survey_Jan_21_25 (1),Unimrkt Will Target The Customers,other,30,"Germany, France, United States"
+81,SoW_for_Pro_Sapient_IT_Infrastructure_Survey_Jan_21_25,Customers,other,30,
+82,SoW_for_Atheneum_FPMA_Vet_Survey_June_3_25,Vet Clinic Admins And Vet Clinic Owners,other,20,United States
+83,SoW_for_Coleman_Parkes_Pharma_Representatives_Survey_Jan_06_25_Signed,Pharma Representatives,other,,"United Kingdom, Germany, France, United States"
+84,SoW for 10K Humans_MDS Patient Study (Wave 6)_Nov 29' 24,Patients,healthcare,40,United States
+85,SoW for 10K Humans_Phoebe Putney Health System Brand Tracker Study Wave 3 2024_Sep 2' 24,Healthcare Consumers Who Are Years And Above Living,healthcare,25,"United States, Georgia"
+86,SoW for Adience_Freight Forwarders and Airports DMs Survey_Nov 22' 24,Freight Forwarders And Airports Dms,it,30,
+87,SoW for Allxprts_E-Commerce Tax Software Study_Feb 21' 25,Fulltime Or More Hours Per Week Or Parttime Contractor,other,35,United States
+88,SoW for Arch Metrics_ABA Center Survey_Dec 9' 24,Customers,other,40,United States
+89,SoW for Arch Metrics_City-Wide Facility Solutions Survey_Mar 6 '25,The Primary Decisionmakers,other,30,United States
+90,SoW for Arch Metrics_Cubex Survey_Apr 19' 24 ,Dentists And Vets Fulfilling The Below Mentioned Criteria Must Work At Multisite Healthcare Practice Have Used Or Evaluated Inventory Management Hardware Andor Software Must Have Used Or Evaluated Cubex Vendor Must Have The Decisionmaking Authority As An Individual Or As A Part,healthcare,25,United States
+91,SoW for Arch Metrics_Payroll SW Survey_Aug 29' 24,Current And Former Userscustomers,consumer,25,"United States, Canada"
+92,SoW for Arch Metrics_Procare Survey_Dec 2' 24,Childcare Centres That Use Procare As Their Centre Management Software,it,25,United States
+93,SoW for Arch Metrics_Procare Survey_Jan 2' 24,Unimrkt Will Target The Respondents,other,25,United States
+94,SoW for Arch Metrics_Supplier Compliance and Document Management Survey_May 24' 24 (002),Unimrkt Will Target The Respondents Who Is The Major Influencer Or The Final Decision Maker,other,25,
+95,SoW for Atheneum_ADHD Quant Survey_Dec 16' 24,Nppa Psychologists,other,20,
+96,SoW for Atheneum_Global HIV Service Reputation Study_Sep 24' 24,Hcpskols Patients Advocate Payers,healthcare,30,"United States, Canada, China, Japan"
+97,SoW for Atheneum_Invitro Diagnostics Survey_Dec 16' 24,Hematology Directors Treatment Area,b2b,40,
+98,SoW for Atheneum_Pharma Procurement Quant Survey_Dec 16' 24,Head,other,15,United States
+99,SoW for Big Village_ Medical Officer Research Survey_Jan 6' 25,Unimrkt Will Focus On Respondents Who Are Years Old And Above,other,25,United States
+100,SoW for Boston Research Services_American Electorate Voters Study_Nov 18' 24 ,American Electorate Voters Study,consumer,20,
+101,SoW for Boston Research Services_Tests in Schools and Institutions Survey_Nov 22' 24,Currently Teaching,other,30,"Viet Nam, Thailand"
+102,SoW for Cint_Gaming Developers Survey_May 1' 24v2,Professional Game Developers Who Have An Influence On Decision Making Or Be The Final Decision Makers Some,it,75,"United States, Canada"
+103,SoW for Digital Research_Logistics and Procurement Survey_May 23' 24,Fulltime Employees Handling Responsibilities Within The Following Functions Logistics Managementoperations Supply Chianprocurement Warehousingdistribution,other,25,
+104,SoW for EMI Research Solutions_CAR T Patient Refusal Materials Testing Survey_Mar 6' 25,Patients,healthcare,40,United States
+105,SoW for EMI Research Solutions_CHI & MIL Brand Awareness Study (Wave 2)_Jan 7' 25,Unimrkt Will Target Fulltime Employees Who Have Some Level,other,25,
+106,SoW for EMI Research Solutions_CHI & MIL Brand Awareness Study_Jan 12' 24,Fulltime Employees Who Have Some Level,other,25,
+107,SoW for EMI Research Solutions_Crohns Disease Patient Survey_Jul 22 '24,Crohns Disease Patient Patients,healthcare,35,United States
+108,SoW for EMI Research Solutions_IgAN Patients Survey (Wave 2)_Nov 18' 24,Patients Who Must Be Diagnosed,healthcare,45,United States
+109,SoW for EMI Research Solutions_NY and NJ Food Manufacturers Survey_Dec 13' 24,Nynj Manufacturing Decision Makers,other,25,United States
+110,SoW for EMI Research Solutions_Severe Osteoporosis Patients Survey (April 2024 Wave)_Apr 25' 24, Osteoporosis Patients Females Males,healthcare,35,United States
+111,SoW for EMI Research Solutions_Severe Osteoporosis Patients Survey (Wave 2)_Jan 31' 24, Osteoporosis Patients Females Males,healthcare,35,United States
+112,SoW for EMI Research Solutions_Severe Osteoporosis Patients Survey (Wave 3)_Apr 25' 24 ,Severe Osteoporosis Patients Females Males,healthcare,35,United States
+113,SoW for EMI Research Solutions_UC Patients Mia Survey_May 27' 24 (002),Unimrkt Will Target Consumers,consumer,35,United States
+114,SoW for EMI Research Solutions_Ulcerative Colitis Patients Survey (Q1 2025)_Jan 31' 25, Ulcerative Colitis Patients,healthcare,25,United States
+115,SoW for EMI Research Solutions_Ulcerative Colitis Patients Survey_May 27' 24,Unimrkt Will Target Consumers,consumer,35,United States
+116,SoW for Emporia Research_Beef and Lamb Survey_Nov 29' 24,Unimrkt Will Target Respondents Who Is Responsible,other,25,"Germany, Austria, Belgium, Sweden"
+117,SoW for GLG_ ACHC Referral Volume and Trends Survey_Dec 11' 24_,Hospital Emergency Department Administrators,healthcare,25,United States
+118,SoW for GLG_Biofuels Study_Jan 9' 24,Fulltime And Parttime Employees Who Are Knowledge About Producing Renewable Fuels Through Feedstock And Know Or Can Comment On Companys Revenue,other,25,"United Kingdom, France, Germany, Italy, Spain, United States"
+119,SoW for GLG_Brazilian IFA Survey_Feb 12' 24 (002),Independent Financial Advisors Who Are Familiar Or Are Currentformer Users Evaluators,consumer,30,
+120,SoW for GLG_Brazilian IFA Survey_Feb 12' 24,Independent Financial Advisors Who Are Familiar Or Are Currentformer Users Evaluators,consumer,30,Brazil
+121,SoW for GLG_Business Technology Customers Survey (January 2025 Wave)_Jan 21' 25,Business Technology Customers Survey January Wave Itdms Functions Fulfilling The Below Mentioned Criteria Must Be A Tech Decision Maker At Organization Must Be A Current Paying Customer,it,25,
+122,SoW for GLG_Cargo Shipping Survey (Wave 2)_Feb 20' 24v2,Employees Who Are Very Knowledgeable About The Industry And Current Trends,other,25,
+123,SoW for GLG_Case Management Survey_Jul 15' 24 (003),Offenders Who Have Been Released Into The Community Pretrial Release Probation Parole Etc,other,25,United States
+124,SoW for GLG_CFO's Capital Allocation Survey_May 21' 24,Cfos,other,30,
+125,SoW for GLG_CFOS Capital Allocation Survey_May 21' 24,Cfos,other,30,
+126,SoW for GLG_Compliance Software Study (Follow-Up Survey)_Feb 5' 24,Decisionmakers Who Are Current Customers Or Evaluators,other,25,United States
+127,SoW for GLG_Customer Trends in Sustainability Survey_Apr 16' 24,Procurement Sales Product Managers Sustainability Top Management,it,35,"France, Germany, United Kingdom, United States, Canada, South Africa, Brazil, China, India, Japan"
+128,SoW for GLG_Data and Information Insights Study_Jan 3' 24,Chief Technology Officer Chief Dataanalytics Officer Other Csuite Nonceocfo,it,35,United States
+129,SoW for GLG_Datadog Resellers Survey (Jan)_Jan 11' 24,Manager Level Roles,b2b,25,
+130,SoW for GLG_Dialysis Tech Trends Survey_Feb 15' 24,Current Customers,other,25,United States
+131,SoW for GLG_Digital Transformation in Manufacturing Survey_Feb 19' 24,Unimrkt Will Target Full Time Senior Managers Heads Directors Csuites Roles,b2b,35,
+132,SoW for GLG_DM1 Pulse Survey_Mar 18' 24,Neurologistsneuromuscular Specialists,other,15,United States
+133,SoW for GLG_DME Continuous Glucose Monitoring Service Survey_Sep 5' 24 ,Manager Respondents Who Have Knowledge,b2b,25,
+134,SoW for GLG_Document Management Survey_Feb 16' 24,Current Customers,other,25,"United States, Canada, United Kingdom"
+135,SoW for GLG_E-Commerce Advertisers Survey_Mar 6' 25,Ecommerce Advertisers,other,30,United States
+136,SoW for GLG_Early Childhood Center Survey_May 14' 24,Early Childhood Years Education,other,30,United States
+137,SoW for GLG_EDA Software Survey_Aug 27' 24,Semiconductor Companies Involved,other,25,United States
+138,SoW for GLG_EDA Software Survey_Aug 27' 24_ (002),Semiconductor Companies Involved,other,25,United States
+139,SoW for GLG_Energy Lawyers Survey_Jul 25' 24 (002),General Counsel Deputy Gc Assistant Gc Chief Legal Office,other,25,Australia
+140,SoW for GLG_Enterprises Software Survey (Jan 2024)_Jan 15' 24,Cios Who Are Currently Using Sap As Their It Provider,other,35,United States
+141,SoW for GLG_Enterprises Software Survey (Wave 3)_Jul 18' 24 (003),Cios Who Are Currently Using Sap As Their It Provider,other,35,United States
+142,SoW for GLG_ESG Solutions Survey_Jul 29' 24,Unimrkt Will Target Manager Seniority Under The Following Functions Trade Compliance Risk Esg Legal Compliance General Counsel Procurement Dms No Csuites Supply Chain Management,it,30,"United Kingdom, Germany, France, Belgium, Netherlands"
+143,SoW for GLG_European Airport Survey (Wave 2)_Jul 15' 24,Fulltime Or Parttime Employees Who Are At Least Moderately Knowledgeable About The Current Airport Outlook And Can Comment On The Recovery Outlook To Pre Covid Levels,it,25,"Italy, Spain, United Kingdom, Germany, France"
+144,SoW for GLG_Executive Coaching Survey_Sep 9' 24,Manager Roles Under The Below Mentioned Titles Ownerfounder Csuite Vp Director Manager,b2b,30,
+145,SoW for GLG_Fashion E-Commerce Survey March 2024 Wave_Apr 8' 24,Senior Salesmarketing Manager Owner Ceo Cmo,b2b,35,"Germany, United Kingdom, Spain, Italy, France"
+146,SoW for GLG_Fertility Clinics Study_Jan 18' 24 ,Reproductive Endocrinologist Gynaecologist Or Obstetrician Working,other,25,China
+147,SoW for GLG_Field Service Management Software Solutions Survey_Sep 30' 24,Ceo Cio Cfo Owner Managers,b2b,25,"Australia, United States, United Kingdom"
+148,SoW for GLG_Financial Market Data Providers Survey March 2024 Wave_Apr 8' 24,Decision Makers Or Key Influencers,other,10,Switzerland
+149,SoW for GLG_Golf Course DMs Survey_Aug 9' 24 ,Golf Course Dms Survey,other,30,
+150,SoW for GLG_Healthcare IT Study_Jan 9' 24 ,Healthcare Executives,healthcare,35,United States
+151,SoW for GLG_Healthcare Vendor Relationships Study_Jan 11' 24,Third Party Administrators Tpa,other,25,United States
+152,SoW for GLG_Hospital Facilities Health and Safety Survey_Feb 22' 24,Unimrkt Will Target Respondents Who Must Be An Influencer Or Decision Maker,other,30,United States
+153,SoW for GLG_HPC Sector Survey_Mar 11' 24 (003),Sales Director Channel Managers Distribution Partnerships Account Managers,b2b,25,Italy
+154,SoW for GLG_IBM Platinum Partners Survey (July 2024 Wave)_Jul 18' 24,Clevel Or Equivalent Svplevel Or Equivalent Vplevel Or Equivalent Directorlevel Or Equivalent,b2b,30,
+155,SoW for GLG_Independent Restaurant Owners Survey_Apr 29' 24 (002),Owners,other,30,
+156,SoW for GLG_IT Asset Management Survey_Jul 23' 24,Director Seniority,b2b,25,United States
+157,SoW for GLG_IT Resellers Survey (April 2024 Wave)_Apr 9' 24 ,It Resellers Sales Marketing Operations,other,25,Japan
+158,SoW for GLG_IT Resellers Survey (Wave 5)_Jan 3' 24,It Resellers Sales Marketing Operations,other,25,Japan
+159,SoW for GLG_Lab Platforms Study_Jan 19' 24 ,Lab Manager Lab Coordinator Lab Technician It Security It Director Procurement Director Chief Executive Officer Chief Information Officer Cyber Security Lab Assistanttechnician,it,30,"Brazil, Mexico"
+160,SoW for GLG_Legal Gen AI Survey_Oct 22' 24 ,Buyers,other,25,"United States, United Kingdom"
+161,SoW for GLG_Legal Software Survey_Jun 12' 24,Decision Makers,other,25,United States
+162,SoW for GLG_Lexis Nexis Westlaw Study_Jan 31' 24,Law Firms,other,25,United States
+163,SoW for GLG_Locomotives and Railcar Survey (July 2024 Wave)_Jul 18' 24,Director Personnel Involved,b2b,25,
+164,SoW for GLG_Logistics Survey_Jun 5' 24,Unimrkt Will Target Decision Makers Office Segments That Are Involved,other,35,
+165,SoW for GLG_Material (Recontact Survey)_Apr 26' 24,Must At Least Have Experience Operating Diesel Forklift Equipment And Should Be Involved,other,,"United Kingdom, France, Germany"
+166,SoW for GLG_Microbiology Testing Instrument Survey_Aug 7' 24,Physicians Must Prescribe Antibiotics On A Daily Basis Must Prescribe Antibiotics To At Least Patients Per Day Must Work At A Hospital,healthcare,25,"United Kingdom, France, Germany, Spain, Italy"
+167,SoW for GLG_Mining Survey_Feb 7' 24 (004),Unimrkt Will Target Respondents Who Either Are A Decisionmaker,other,25,"United States, Canada, Brazil, Australia, South Africa, Argentina, Mexico"
+168,SoW for GLG_MMSI Market Assessment Study (Wave 4 January 2025)_Jan 3' 25,Sales Professionals,other,25,United States
+169,SoW for GLG_MMSI Market Assessment Study_Mar 18' 24 ,Sales Professionals,other,25,United States
+170,SoW for GLG_Moodys and MSCI Products Study (April 2024 Wave)_Apr 9' 24,Unimrkt Will Target Respondents Fulfilling The Below Mentioned Criteria Must Have The Following Decisionmaking Authority Regarding The Procurement Decision,other,25,"Germany, Italy, United Kingdom, United States"
+171,SoW for GLG_Mortgage Software Survey (July 2024 Wave)_Jul 9' 24,Decision Makers Key Influencers,other,25,United States
+172,SoW for GLG_MSFT Azure Resellers Survey (April 2024 Wave)_Apr 17' 24,Resellers,other,25,United States
+173,SoW for GLG_Network Distributors and Customers Survey (April 2024 Wave)_Apr 17' 24,Managers And Above Job Roles Respondents,b2b,25,
+174,SoW for GLG_Nice Partner Trends Study_Feb 7' 24 (002),Csuite Level Or Equivalent Senior Vice President Or Equivalent Vice President Level Or Equivalent Director Level Or Equivalent Manager Level Or Equivalent,b2b,25,
+175,SoW for GLG_PAH Study_Jan 10' 24,Pulmonologists Cardiologists,other,25,United States
+176,SoW for GLG_Patient Monitoring Systems and Imaging Usage Study_Mar 8' 24, Primary Or Soledecision Maker Part,other,25,"Brazil, Mexico, Indonesia"
+177,SoW for GLG_Payers Survey_Jan 4' 24 ,Payerspbmsindustry Consultants,other,25,United States
+178,SoW for GLG_Payment Processing Trends  Resellers Survey_Feb 27' 25,Sellers,other,25,United States
+179,SoW for GLG_PEO Survey_Dec 11' 24,Decision Makers At Employers Who Currently Use Peos,other,30,United States
+180,SoW for GLG_Pest Control Industry Study_Jan 5' 24,Full Time Or Part Time Employees Who Are Knowledgeable,other,25,"Germany, France, Italy, Spain"
+181,SoW for GLG_Pest Control Trends Study (Wave 2)_Apr 8' 24,Soledecision Makers Or Respondents Who Are Part,other,25,United States
+182,SoW for GLG_Pest Control Trends Study_Jan 2' 24,Operations And Business Development Sales,other,25,United States
+183,SoW for GLG_Powersports Study (March Wave)_Mar 14' 24 (003),Distributors,b2b,20,United States
+184,SoW for GLG_Property Management Software Users Survey_Jul 15' 24,Fulltime And Parttime Employees Fulfilling Certain Criteria,it,25,"France, Germany, Italy, Spain"
+185,SoW for GLG_Public Monitoring Systems and Imaging Usage Study_Mar 8' 24,Must Have The Following Level,other,25,"Brazil, Mexico, Indonesia"
+186,SoW for GLG_Residential Door Locks Survey (July Wave)_Jul 18' 24,Lock Distributor Mostly Purchase,b2b,25,United States
+187,SoW for GLG_Resins Furniture Trends Survey_May 16' 24,Fulltimeparttime Employees Who Are Knowledgeable About Resins Furniture And Can Discuss The Latest Trends,other,25,
+188,SoW for GLG_Salon Software Usage Study_Jan 15' 24 (003),Sole Decision Makers Or Individuals Who Are Part,consumer,25,United States
+189,SoW for GLG_Scalable Filtration Study (Re-Run)_Apr 26' 24,Unimrkt Will Target Professionals Fulfilling The Below Criteria Must Have Experience,other,30,"United Kingdom, Germany, France, Italy, Spain, China, India, Japan"
+190,SoW for GLG_Semiconductor Manufacturing Equipment Survey_Apr 25' 24,Users,consumer,30,Japan
+191,SoW for GLG_Software Professionals Survey_Apr 17' 24 ,Software Professionals,it,30,
+192,SoW for GLG_Software Space Survey_May 24' 24 (002),Full Timepart Time Employees,other,35,Germany
+193,SoW for GLG_Swimming Pool Equipment Study (March 2024 Wave)_Apr 8' 24 (002),Installers And Distributors,b2b,20,United States
+194,SoW for GLG_Tabletop Game Stores Survey_Jul 23' 24 (002),Owner Store Managersupervisor,b2b,25,United States
+195,SoW for GLG_Tissue Industry Survey_Apr 16' 24,Unimrkt Will Target The Respondents Fulfilling The Below Mentioned Criteria Have Decisionmaking Responsibilities,other,25,
+196,SoW for GLG_Tracking Devices and Software in Construction Survey_Aug 1' 24 (003),Fulltime And Selfemployed Employeesbusiness Owners Responsible,other,25,"United States, United Kingdom, Austria, Belgium, Denmark, Finland, France, Germany, Greece, Ireland, Italy, Luxembourg, Netherlands, Norway, Poland, Spain, Sweden"
+197,SoW for GLG_Triple Staining VoC Study_Jan 5' 24,Lab Managersdirectors Pathologists ,b2b,30,United States
+198,SoW for GLG_Utility-Scale Renewable Developers Survey_Feb 2' 24,Utilityscale Renewable Developers,it,40,
+199,SoW for GLG_Wire Transfer Survey_Feb 20' 24v2,,other,25,United States
+200,SoW for GLG_Wix Studio Partners Survey_Apr 17' 24 (002),Agencies Who Use And Partner,other,25,"United States, New Zealand, India, Singapore, Australia"
+201,SoW for GLG_XXL Bioreactors Study_Jan 2' 24 ,All Working,other,35,China
+202,SoW for Innovate MR_Accounting firms Study (INV160078)_Nov 18' 24,It Decision Makers,other,30,
+203,SoW for Innovate MR_Audit Technology and Software Solutions (INV160078)_Nov 18' 24,It Decision Makers,other,30,United States
+204,SoW for Innovate MR_Audit Technology and Software Solutions Study (INV160078)_Nov 18' 24,It Decision Makers,other,30,United States
+205,SoW for Innovate MR_Cell Culture Media Survey_Nov 25' 24,Scientists Working At Drug Developers,it,35,"United States, Canada"
+206,SoW for Innovate MR_Commercial Interior Designers Survey_Dec 9' 24,Commercial Interior Designers Who Work On Commercial Interior Design Eg Interiors,other,25,United States
+207,SoW for Innovate MR_Commercial Truck Drivers Survey_Nov 25' 24,Commercial Truck Drivers,other,15,
+208,SoW for Innovate MR_Fertility Leadership Study_Jan 15' 25 ,Senior Leaders Marketing Directorvp Chief Marketing Officer Financegrowthrevenue Cycle Manager Cfo Ceo Operations Director Coo Cliniclab Operations Practice Manager Medical Directors Embryologistlab Director Clinic Level Staff Fertility Nurses Advanced Practice Providers Reproductive Endocrinologists,healthcare,40,United States
+209,SoW for Innovate MR_General Population Survey_May 9' 24,Malefemale Aged Years Or Older,other,25,"Bahrain, Iraq"
+210,SoW for Innovate MR_INVREHABT and INV165819  Skilled Nursing Facilities Survey_December 19' 24,Coordinatorsregionalsconsultants Directors,b2b,40,
+211,SoW for Innovate MR_Insurance Industry Study_Nov 18' 24,Fulltime Employed Professionals,other,30,"France, Germany"
+212,SoW for Innovate MR_Microbiology Testing Instruments Survey_Jan 15' 25,Lab Director Lab Manager Lab Supervisor Biologist Microbiologist,b2b,40,United States
+213,SoW for Innovate MR_PE Firms Survey_Oct 28' 24,Directors,b2b,25,"Nigeria, South Africa, Chile, Brazil, Mexico, Australia, China, Singapore, Hong Kong"
+214,SoW for Innovate MR_Psychiatry Nurses Survey_Nov 21' 24,Psychiatric Nurses Working,healthcare,60,United States
+215,SoW for Innovate MR_VHNWIs and UHNWIs Survey_Nov 27' 24,Vhnwis And Uhnwis,other,30,"Canada, Mexico, Brazil, Argentina, Chile, United Kingdom, Germany, France, Switzerland, Italy, Norway, Japan, China, Australia, India, Hong Kong, Singapore, Luxembourg, Netherlands"
+216,SoW for Insight by Design_Bloomberg Survey_Mar 11' 24,Fullparttime Or Not Currently Employed Respondents Fulfilling The Below Mentioned Criteria Must Not Use Bloomberg Terminal Prontovis Index Vendox System Products Or Share An Account,other,30,
+217,SoW for Kantar Research_Google B2B Brand Building Survey_Nov 27' 24,Marketing Functional Roles Or Individuals,consumer,30,United States
+218,SoW for Kantar Research_Optum Brand Tracking Survey (212492017)_Jan 6' 25,Health Plansbuyers,other,60,United States
+219,SoW for Med Survey_MDS Patient Study (Wave 6)_Nov 29' 24,Retailer Food Service Manufacturer Distributor Trader,it,25,"Germany, Austria, Belgium, Sweden"
+220,SoW for PYMNTS_CFO Monitor Survey (Phase 4)_May 6' 24,Chief Financial Officers,other,25,United States
+221,SoW for PYMNTS_CFO Monitor Survey (Phase 8)_Sep 16' 24,Chief Financial Officers,other,25,United States
+222,SoW for PYMNTS_Chief Financial Officers Survey (CAIO Instrument) February 2025 Wave_Feb 20' 25,Chief Operating Officers,other,35,United States
+223,SoW for PYMNTS_Chief Financial Officers Survey (CAIO Instrument) May 2024 Wave_May 6' 24,Chief Operating Officers,other,35,United States
+224,SoW for PYMNTS_Chief Financial Officers Survey (CAIO Instrument) September 2024 Wave_Sep 6' 24,Chief Operating Officers,other,35,United States
+225,SoW for PYMNTS_Credit Union Executives and Fintech Survey_Nov 22' 24,Credit Union Executives,b2b,30,United States
+226,SoW for PYMNTS_Financial Institutions Survey_Mar 3' 25,Credit Underwriting Commercial Landing Customer Acquisition Risk Management And Compliance,other,30,"United States, United Kingdom"
+227,SoW for PYMNTS_Global Acquirer Study_Nov 20' 24,Acquirers That Process Sales Transactions,finance,25,"Brazil, Mexico, Saudi Arabia, Singapore, United Arab Emirates, United Kingdom"
+228,SoW for Peerless Insights_Community Study Sampling Study_Nov 19' 24,Decision Makers About The Selectionpurchase,other,30,United States
+229,SoW for Peerless Insights_On-Prem Video Solution Study_Nov 19' 24,Individuals Responsible,consumer,30,United States
+230,SoW for Potloc_AI Challenges Survey_Dec 13' 24, Respondents That Have Already Usedimplemented Generative Ai,it,20,"France, Germany, Switzerland, Italy"
+231,SoW for Potloc_Academic Publishing Space Survey_May 17' 24,Librarians At Universitiescentral Library And Selffunded Authors Publishing,other,30,
+232,SoW for Potloc_Affluent and HNWIs Survey_Nov 29' 24,Affluent And Hnwis Survey,other,25,
+233,SoW for Potloc_Airline Software Study_Jan 10' 25,Hobbyists Or Wealthy Individuals Who Have Their Own Planes Director,b2b,35,United States
+234,SoW for Potloc_Asset Management Study_Sep 10' 24,Portfolio Manager Vp Asset Management Director Vp Portfolio Strategy,b2b,30,
+235,SoW for Potloc_Auto Loans Customers Survey_Feb 22' 24,Auto Loans Customers Survey,finance,35,United States
+236,SoW for Potloc_B2B Oil and Gas Survey_Feb 13' 25, Age,other,30,
+237,SoW for Potloc_B2B Survey_Feb 2' 24,End Customers And Purchasers,other,40,Germany
+238,SoW for Potloc_B2B in France Study_Feb 20' 24,Financial Planners Financial Advisors Accountants Business Owners And Company Managers,b2b,25,France
+239,SoW for Potloc_B2C Camara Education Survey_Aug 16' 24 ,Students And Aluminis,other,45,Spain
+240,SoW for Potloc_B2C Student and Alumini Survey_Jul 30' 24 (002),Students And Alumni Who Studied Education And Has A Masters Degree,other,30,Spain
+241,SoW for Potloc_B2C Student and Alumini Survey_Jul 30' 24,Students And Alumni Who Studied Education And Has A Masters Degree,other,30,Spain
+242,SoW for Potloc_BI Decision Makers Study_Nov 20' 24,Bi Decision Makers,other,25,"United States, United Kingdom, Australia"
+243,SoW for Potloc_Business Process Outsourcing Survey_Nov 27' 24,Currently Outsource Some Business Process Services Involved,other,30,United Kingdom
+244,SoW for Potloc_Buyers of Diagnostic Machines Survey_Dec 13' 24,Senior Procurement Decision Makersdirectorsmanagers,b2b,25,France
+245,SoW for Potloc_Car Dealers Study_Jan 9' 25,Car Dealers,other,30,United Kingdom
+246,SoW for Potloc_Car Dealership Survey_Dec 5' 24 , Respondents Working At Management Position,other,30,United States
+247,SoW for Potloc_Construction Equipment Study_Jan 11' 24,Professionals Who Know The Purchasing Criteria And Level,other,25,France
+248,SoW for Potloc_Databases Platforms Study_Feb 6' 25,European Based Database Platform,it,10,
+249,SoW for Potloc_Dental Implant Suppliers Survey_Jan 10' 24,Dentists Fulfilling The Below Mentioned Criteria,other,50,
+250,SoW for Potloc_E-Procurement Software User Survey_Jan 12' 24,Unimrkt Will Target Fulltime Employees Who Have Some Decisionmaking Authority Regarding The Process,other,40,"United States, Canada"
+251,SoW for Potloc_Electricians Survey_Jan 25' 24, Electricians Menwomen,other,25,Ireland
+252,SoW for Potloc_Energy Purchasing Study (Wave 3)_Nov 29' 24,Respondents Who Are Responsible Or Coresponsible,other,30,France
+253,SoW for Potloc_Field Management Software Study_Jan 15' 25,Unimrkt Will Target Respondents Involved,other,25,"United States, United Kingdom"
+254,SoW for Potloc_Finance Survey_Feb 14' 25,Decision Makers,other,15,United States
+255,SoW for Potloc_Financial Services Survey_May 17' 24, Menwomen Working,other,25,"United States, France, Germany, Switzerland, Belgium, Netherlands, Luxembourg, United Kingdom"
+256,SoW for Potloc_Fire Safety Players Survey_Feb 12' 25 , Age,other,25,France
+257,SoW for Potloc_Fleet Owners Study_Jan 22' 24,Fleet Owners Or Business Owners Plumber Craftsman Services Who Have A Fleet,other,25,United States
+258,SoW for Potloc_Food Ordering Survey_Sep 23' 24,Unimrkt Will Target Us Nat Reps While Targeting Minimum On Each Gender Malefemale And Respondents Fulfilling The Belowmentioned Criteria Must Be Less Than Years,other,30,United States
+259,SoW for Potloc_Grocery Store Managers Survey_Dec 16' 24,Grocery Store Managers,b2b,30,
+260,SoW for Potloc_HVAC Survey_Dec 16' 24 ,Property Managers Procurement Managers Purchasing Specialists At Industrial Companies Etc,b2b,30,Canada
+261,SoW for Potloc_Healthcare Facilities Survey_Nov 20' 24,Decision Makers About Analytics Software,it,50,"Netherlands, Germany"
+262,SoW for Potloc_Healthcare Providers Survey_May 15' 24,Healthcare Providers,healthcare,25,
+263,SoW for Potloc_Higher Education Survey_Aug 8' 24 (002),Yearold Higher Education Students Bachelors Or Masters Student Enrolled,other,35,
+264,SoW for Potloc_Higher Education Survey_Aug 8' 24 ,Yearold Higher Education Students Bachelors Or Masters Student Enrolled,other,35,
+265,SoW for Qualtrics_Landscape Lighting Installers Survey_Apr 25' 24_ (002),Professional Landscapers Who Install Landscape Lighting,other,30,United States
+266,SoW for Potloc_Higher Education Survey_Aug 8' 24,Yearold Higher Education Students Bachelors Or Masters Student Enrolled,other,35,
+267,SoW for Potloc_Industrial Capabilities Survey_Mar 22' 24 (004), Respondents Who Has An Overview,other,25,United Arab Emirates
+268,SoW for Potloc_Institutional Investors Survey_Feb 13' 25,Institutional Investors,finance,30,Japan
+269,SoW for Potloc_Italian Restaurant Owners Survey_Dec 11' 24,Owners Or Operators,other,30,United States
+270,SoW for Potloc_K-12 Market in Phuket Survey_Feb 12' 25,Parents,other,30,Thailand
+271,SoW for Potloc_K-12 in Singapore Survey_May 15' 24,Parents,other,30,Singapore
+272,SoW for Potloc_Kitchen Manufacturers and Installations Study_Jan 24' 25 ,Kitchen Manufacturers And Installations Study,b2b,40,United Kingdom
+273,SoW for Potloc_Luxury Manufacturers Survey_Jan 13' 25,Manager Or Higher,b2b,25,Italy
+274,SoW for Potloc_Mechanics Survey_Nov 27' 24 ,Mechanists,other,30,Australia
+275,SoW for Potloc_Mining Survey_Feb 26' 25, Respondents Who Are Typically Decisionmakers Within Procurement Departments Or Those Responsible,other,25,"France, Poland"
+276,SoW for Potloc_New Librarians Survey_Nov 18' 24,Decision Makers,other,35,
+277,SoW for Potloc_Oil and Gas Sustainability Survey_Jul 30' 24 (002), Directors Who Are Involved,b2b,30,"Kuwait, Qatar, Iraq, Oman, Jordan, Algeria, Nigeria, South Africa, Egypt, Angola, Mexico, Brazil, Colombia, United Kingdom, Italy, China, Japan, Singapore, United States, Canada"
+278,SoW for Potloc_Parents Survey_May 16' 24,Parents Survey,other,25,United Kingdom
+279,SoW for Potloc_Parents of Children (B2C) Survey_Jul 10' 24 ,Parents,other,30,
+280,SoW for Potloc_Parents of Students in India Study_Jan 3' 25,Parents,other,45,India
+281,SoW for Potloc_Payors and Providers Survey_Sep 9' 24,Payors And Providers Survey,other,35,United States
+282,SoW for Potloc_Pet Food Brand Buyers Survey_Nov 27' 24,Pet Food Brand Buyers Survey,other,30,
+283,SoW for Potloc_Pilot -Follow Up Survey_Mar 6' 25, Respondents Who Have The Decisionmaking Authority Over Aviation Software Used ,it,35,
+284,SoW for Potloc_Property Managers Survey_Jan 5' 24,Professional Property Managers Whose Work Is To Be,b2b,30,
+285,SoW for Potloc_Rail Flagging Services Survey_Feb 13' 25, Age,other,15,"United States, Canada"
+286,SoW for Potloc_Recruitment Decision Makers Study_Jan 4' 24 ,Recruitment Decision Makers Study,other,25,
+287,SoW for Potloc_Restaurant Operators Survey_Feb 22' 24 (002),Restaurant Operators And Owners,other,30,United Kingdom
+288,SoW for Potloc_Retail Software Study_Jan 2' 24,Decisionmakersit Managersclevels They Must Fulfil The Following Criteria Must Be,b2b,35,
+289,SoW for Potloc_Roadside Assistance Survey_Jan 17' 25, Respondents Who Works,other,30,United States
+290,SoW for Potloc_Salon Owners and Stylist Survey_Sep 6' 24,Salon Owners And Stylist Survey,other,60,United States
+291,SoW for Potloc_Sanitary Fittings Survey_Jan 15' 25,Decisionmakers,other,35,"Austria, Belgium, Poland, United States"
+292,SoW for Potloc_Software Space Study_Apr 10' 24,Decisionmakers Such As Vp Managers,b2b,35,"Sweden, Denmark"
+293,SoW for Potloc_Solvent Recovery Units Survey_Jan 15' 25 ,Adult Individuals,consumer,25,"United States, China"
+294,SoW for Potloc_Tissue Survey_Jan 9' 25 ,Individualsoffice Managers Fulfilling The Below Mentioned Criteria Responsible,b2b,30,"Germany, United Kingdom, France, Poland"
+295,SoW for Potloc_Tourism Managers Survey_Mar 19' 24,Tourism Managers,b2b,30,
+296,SoW for Potloc_Tradesman Directory Platform Survey_Jan 21' 25, Respondents Who Works As Tradesman,b2b,40,
+297,SoW for Potloc_Traveling Insurance Survey_Apr 30' 24, Year Old Citizens,consumer,40,United Kingdom
+298,SoW for Potloc_Vocational Education Survey_May 6' 24, Aluminis,other,25,Spain
+299,SoW for Potloc_Water Disposal Sites Survey_Mar 4' 25,Landfills Waste Management Centers Municipalities,other,35,"Spain, Portugal, Italy, France, United Kingdom"
+300,SoW for Potloc_Wealth Management Software Study_Feb 12' 24,Must Be Years,other,35,
+301,SoW for Potloc_Workflow Automation Survey_Mar 4' 25,Surgeons,other,30,"Germany, United Kingdom, United States"
+302,SoW for Pro Sapient_Education Software Survey_Dec 4' 24,Bb Teachers Who Are Focusing On Education Software Endusers Eg Teachers And Are Able To Speak To Different Platforms Eg Pickatale Ilt Lixplore Kurzweil Texthelp Rosetta Stone Liber Sanoma On Topics Incl Usage Product Differentiation Nps,it,30,"Sweden, United Kingdom, Norway, Finland"
+303,SoW for Pro Sapient_England Housebuilder Survey_Dec 4' 24,Englandbased Adults Who Have Purchased A New Build House,consumer,25,
+304,SoW for Pro Sapient_Field Service Management Software Survey_Dec 4' 24 ,Operation Managers Project Managers Site Supervisors It Managers,b2b,15,United Kingdom
+305,SoW for Pro Sapient_Horse Owners Survey_Jan 21' 25,Current Horse Owners,other,30,"Belgium, France, Germany, United Kingdom, Spain, United States, Netherlands, Ireland"
+306,SoW for Pro Sapient_IT Infrastructure Survey_Jan 21' 25,Unimrkt Will Target The Customers,other,30,"Germany, France, United States"
+307,SoW for Pro Sapient_Optical Lenses Survey_Dec 4' 24, Opticians Selling Contact Lenses Online Or,other,25,Switzerland
+308,SoW for Pro Sapient_Reusable Transport Packaging Solutions Survey_Dec 4' 24,Decision Makers Or Contributors,other,30,South Africa
+309,SoW for Prodege_Purchasing Decision Makers Survey_Dec 19' 24,Purchasing Decision Makers Or Influencers,other,35,"United States, China, India, United Kingdom, Germany, France, Spain, Japan, Brazil"
+310,SoW for PureSpectrum_Gen-Pop Study_Jan 12' 24,General Population Respondents,other,25,United States
+311,SoW for Quadrant Strategies_Elevance Survey (Wave 4)_Oct 28' 24,Investors Fulfilling The Below Mentioned Criteria Hold At Least One Large Insurance Company,finance,25,
+312,"SoW for Quadrant Strategies_Lumen Brand Tracker Survey 24-KS-LUM-XXX-32-BTQ4, (QS-01551)_Nov 29' 24",Itdms Manager,b2b,35,
+313,SoW for Qualtrics_B2B Industrial Survey_Feb 1' 24 (002),Chief Vp Director,b2b,30,United Kingdom
+314,SoW for Qualtrics_Biotech Survey_Nov 21' 24,,other,,United States
+315,SoW for Qualtrics_Construction or Remodelling Study_Jan 10' 24,Unimrkt Will Target The Respondents Working,other,30,United States
+316,SoW for Qualtrics_Drug Testing Survey_Nov 27' 24,Employees Involved,other,30,United States
+317,SoW for Qualtrics_Exterior Lighting Design Survey_May 28' 24,Professionals Who Have Experience As Either An Electrician General Contractor Or Similar Role Installing Exterior Commercial Building Lighting,other,45,United States
+318,SoW for Qualtrics_FEC Operators Survey_Feb 12' 24,Unimrkt Will Target Family Entertainment Centres That Have Mini Golf Arcades And Gokarts,it,15,
+319,SoW for Qualtrics_Hardwood Floor Survey_Oct 7' 24 ,Professional Flooring Installers That Puts,other,60,United States
+320,SoW for Qualtrics_Healthcare Executives Survey_Oct 29' 24 ,Bb Healthcare Executives Who Are The Decision Makers Or Above Such As Healthcare Providers Or Payors,healthcare,25,United States
+321,SoW for Qualtrics_Home Value Survey_Jul 24' 24,Real Estate Agents Fulfilling The Mentioned Criteria ,other,15,"United States, Canada"
+322,SoW for Qualtrics_International Health Care Patients Survey_Feb 6' 24,International Health Care Patients,healthcare,35,United States
+323,SoW for Qualtrics_Landscape Lighting Installers Survey_Apr 25' 24,Professional Landscapers Who Install Landscape Lighting,other,30,United States
+324,SoW for Qualtrics_Legal Trends Survey (Wave 2)_Jan 30' 25,Decision Makers At Large Law Firms Amlaw Nlj Global ,other,30,United States
+325,SoW for Qualtrics_Native American Adoption Survey_Apr 1' 24, Age Group Native Americans That Grew Up,other,50,United States
+326,SoW for Qualtrics_Pacific Islanders Survey_Nov 25' 24,Parents,other,25,United States
+327,SoW for Qualtrics_Payers and Formulary Decision Makers Survey_Dec 19' 24,Payers And Formulary Decision Makers,other,35,United States
+328,SoW for Qualtrics_People Analytics Survey_Aug 8' 24,Fulltime Employee Must Sit Within The Business Intelligence Function Must Be A Decision Maker Or Have Influence,other,25,United States
+329,SoW for Qualtrics_Prachi Ports Study_Nov 18' 24,Full Time Professionals That Work At Port Authority Organizations Aligned To Seaports,other,30,United States
+330,SoW for Qualtrics_Property Management Survey Dec 10' 24,Building Developers Building Owners,it,35,United States
+331,SoW for Qualtrics_Regional Health Plan Survey_Jan 15' 25,Respondents Employed By A Regional Health Plan That Is Privately Owned Or Owned By A Provider Or Health Network And Is A Primaryshared Decisionmaker Or Decision Influencer When Selecting Vendors,other,30,United States
+332,SoW for Qualtrics_Start-up Mobility Survey_Dec 5' 24, Respondents Who Have Worked At Or Are Currently Working At A High Tech Start Up And Have Interacted,it,25,
+333,SoW for Qualtrics_Stepmothers Survey_Nov 20' 24,Native Americans Who Are Currently Enrolled,other,35,United States
+334,SoW for Qualtrics_Thailand EV Owners Survey_Dec 6' 24,Thailand Ev Owners,it,25,Thailand
+335,SoW for Quest Mindshare_Facility Workers_Dec 17' 24,Roofers Steel Fabricators Modular Building Manufacturers Concrete Contractors Supply Houses,b2b,20,
+336,SoW for Rep Data_Auditors Survey_Feb 6' 25,Unimrkt Will Focus On Individuals Who Meet The Following Criteria Must Use Software And Ai,it,25,"United Kingdom, Germany"
+337,SoW for Rep Data_B2B Study (Rep  112422783)_Nov 25' 24,Unimrkt Will Target The Respondents Who Are Very Involved,other,25,United States
+338,SoW for Rep Data_Channel Partners Study_Feb 22' 24 ,Manager Level Good Mix,b2b,35,
+339,SoW for Rep Data_Channel Partners Study_Nov 22' 24 ,Manager Level Good Mix,b2b,35,"United States, United Kingdom, France"
+340,SoW for Rep Data_Electrical Technicians Study_Jan 23' 2025,Electrical Technicians Study,it,35,"United States, Canada"
+341,SoW for Rep Data_Manufacturers and Distributors Survey_Dec 18' 2024,Manufacturers And Distributors,b2b,50,United States
+342,SoW for Rep Data_Manufacturers and Distributors Survey_Dec 19' 2024,Manufacturers And Distributors,b2b,50,United States
+343,SoW for Rep Data_Organizational Rewards Study_April 30' 24 ,Manager Respondents Who Are Aware,b2b,35,United States
+344,SoW for Rep Data_Private Markets Compliance DMs Study_Feb 7' 25,Individuals Involved,consumer,30,United States
+345,SoW for Rep Data_Product Retention Survey_Mar 14' 24,Unimrkt Will Target Respondents Who Must Be Currently Affiliated,other,25,United States
+346,SoW for Rep Data_Programmatic Marketers Survey_May 21' 24 (002),Programmatic Marketers,other,25,"United States, United Kingdom, France, Germany"
+347,SoW for Roth MKM_Auto Repair Garage Operators Survey_Aug 7' 24 ,Auto Repair Garage Operators,it,15,United States
+348,SoW for Roth MKM_CPA and Advisory Firms Survey_Oct 28' 24,Cpa Firms Including Frazier Deeter Atlantabased Firm Providing Audit Tax And Advisory Services To Businesses And Individuals,consumer,20,
+349,SoW for Roth MKM_Cybersecurity and Training Survey_Nov 20' 24,Senior Decision Makers Responsible,other,20,United States
+350,SoW for Roth MKM_Digital Brand Managers Survey (Wave-4)_Dec 5' 24,Digital Brand Managers At Large Enterprisescorporations Using Technology Solutions That Analyze The Value,it,20,United States
+351,SoW for Roth MKM_Education Survey_Jul 12' 24,Respondents Who Are Aware,other,20,United States
+352,SoW for Roth MKM_Floor and General Contractors Survey_Jan 28' 25,Residentialcommercial Floor Contractors And General Contractors Who Have Done Coated Concrete Garage Floor Repairs,it,25,United States
+353,SoW for Roth MKM_HCM and WFM Software Solutions Survey_Feb 24' 25,Decision Makers Will Likely Be,other,25,
+354,SoW for Roth MKM_Independent Greek Restaurants Study_Jan 31' 25,Owners Partners Managers,b2b,30,United States
+355,SoW for Roth MKM_Oncologist Study (Wave 2)_Aug 28' 24,Oncologists,healthcare,25,United States
+356,SoW for Roth MKM_Trade School Survey_May 10' 24,Unimrkt Will Target The Respondents Who Are Very Knowledgeable About Key Trends And Metrics At The School Such As Enrolment Trends Graduation Rates Employment Trends Etc,other,15,"Georgia, India"
+357,SoW for Roth MKM_US Health Systems Yearly Tracker Study (Wave 9)_Jul 24' 24,Decision Makers At Health Systems Across The Us They Must Have Direct Oversight,other,15,
+358,SoW for SlyWorks_Medicare Advantage Study_Dec 10' 24,Unimrkt Will Target The Respondents Fulfilling The Below Mentioned Criteria Must Be Years,other,25,United States
+359,SoW for Spot Trender_Dallas College Study (Wave 2)_Sep 16' 24,Those Who Are Willing To Join College And Those Who Are Already,other,35,United States
+360,SoW for Symmetric Sampling_Builder Series 2024 (November Wave) Survey_Nov 21' 24,Residential Builders Specialty Contractors Ie Insulation Contractors Roofing Contractors Decking Contractors Etc Residential Remodelers,other,25,United States
+361,SoW for Symmetric_Builder Series 2024 (July Wave) Survey_Jul 18' 24,Residential Builders Specialty Contractors Ie Insulation Contractors Roofing Contractors Decking Contractors Etc Specializing,other,25,United States
+362,SoW for Symmetric_Builder Series 2024 Survey (August Wave)_Aug 8' 24,Residential Builders Specialty Contractors Ie Insulation Contractors Roofing Contractors Decking Contractors Etc Residential Remodelers,other,25,United States
+363,SoW for Symmetric_Contractors and Builders Survey_Aug 8' 24 ,Residential Or Commercial Builders Fulfilling Certain Criteria,it,30,United States
+364,SoW for Symmetric_Crawlspace Remediation Contractors Survey_Dec 13' 24,Crawlspaces Basements Andor Pilestilt Foundations,other,30,United States
+365,SoW for Symmetric_Fertility Clinicians Survey_Feb 20' 24,Fertility Clinicians,other,35,United States
+366,SoW for Symmetric_Property Owners and Managers Survey_Aug 16' 24 ,Property Owners And Managers Survey,b2b,35,United States
+367,SoW for Werk Insight_Investment Professionals Survey_May 23' 24,Financial Organisations Unimrkt Will Target Individuals,consumer,25,"United Kingdom, Canada, Australia, France"
+368,SoW for Werk Insights_Contractors Survey_Feb 12' 24 (002),Unimrkt Will Target The Fulltime Contractors Fulfilling The Below Mentioned Criteria Must Have ,other,25,
+369,SoW for Werk Insights_Contractors and Architects Survey_Feb 4' 25,Contractors And Architects,other,30,United States
+370,SoW for Werk Insights_Electrical Distributors Survey_Nov 27' 24,Electrical Distributors Eg Selling Wholesale Electrical Supplies Like Lighting Fixtures Switches Controllers To Professional Audiences Eg Electricianselectrical Contractors,b2b,35,United States
+371,SoW for Werk Insights_Fleets Utilizing Telematics Study_Jan 24' 25,Fleet Decisionmakers Responsible,other,25,United States
+372,SoW for Werk Insights_Metalworking Business DMs Survey_Nov 20' 24,Unimrkt Will Target The Metalworking Organizations Under The Following General Manufacturing Minimum N O Metal Fabrication Any General Fabjob Shop Machine Shop Or Type,other,30,United States
+373,SoW for Zeitgeist Research_Success Academies Survey_Sep 30' 24,Parents Aged Between Children Aged Living,other,25,
+374,SoW for pro Sapient_Geotechnical Service Industry Study_Jan 21' 25,Customers,other,35,"Spain, Romania, Mexico"

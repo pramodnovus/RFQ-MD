@@ -1,0 +1,1 @@
+{'target_group': 'current and former users/customers of Heartland Payroll Software', 'loi': 'approximately 20-25 Minutes', 'location': 'United States, Canada', 'project_type': 'Payroll SW Survey'}

@@ -1,0 +1,6 @@
+{
+  "target_group": "Pet Food Brand Buyers Survey",
+  "loi": "25-30 Minutes",
+  "location": "France; Country Language Sample",
+  "project_type":"Primary research"
+}

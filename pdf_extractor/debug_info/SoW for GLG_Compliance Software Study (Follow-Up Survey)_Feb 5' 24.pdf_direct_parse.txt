@@ -1,0 +1,1 @@
+{'target_group': 'Decision-Makers who are current customers or evaluators of compliance software', 'loi': '20-25 minutes', 'location': 'United States', 'project_type': 'Compliance Software Study (Follow-Up Survey)'}

@@ -1,0 +1,5 @@
+{
+  "target_group": "CFO's",
+  "loi": "25-30 Minutes",
+  "location": "Global/English (70-90%)",
+  "project_type": "Primary Research"

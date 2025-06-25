@@ -1,0 +1,1 @@
+{'target_group': "students and alumni who studied education and has a master's degree", 'loi': 'approximately 25-30 minutes', 'location': 'Spain (Country Language Sample)', 'project_type': 'B2C STUDENT AND ALUMINI SURVEY'}

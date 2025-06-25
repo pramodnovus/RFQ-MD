@@ -1,0 +1,6 @@
+{
+  "target_group": "Decision Makers at health systems across the U.S. They must have direct oversight of health system's entire revenue collection management (RCM) function.",
+  "loi": "approximately 10-15 minutes",
+  "location": "United States English",
+  "project_type": "primary research"
+}

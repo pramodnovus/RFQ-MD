@@ -1,0 +1,6 @@
+{
+  "target_group": "Must at least have experience operating diesel forklift equipment and should be involved in evaluation, purchasing and usage of diesel forklifts equipment.",
+  "loi": "3-5 questions",
+  "location": "United Kingdom, France, Germany",
+  "project_type": "Material Handling (Recontact Survey)"
+}

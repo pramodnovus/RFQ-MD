@@ -1,0 +1,1 @@
+{'target_group': 'Chief Operating Officers', 'loi': '25-35 Minutes', 'location': 'United States', 'project_type': 'Primary research'}

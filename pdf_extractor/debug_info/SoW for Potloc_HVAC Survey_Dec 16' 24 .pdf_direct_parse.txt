@@ -1,0 +1,1 @@
+{'target_group': 'Property Managers, Procurement Managers, Purchasing specialists at industrial companies, etc', 'loi': 'approximately 25-30 Minutes', 'location': 'Canada (Greater Toronto/Ontario area)', 'project_type': 'HVAC Survey'}

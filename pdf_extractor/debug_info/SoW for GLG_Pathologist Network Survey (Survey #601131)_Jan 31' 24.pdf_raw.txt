@@ -1,0 +1,7 @@
+Here is the output in pure JSON format:
+
+{
+  "target_group": "Pathology Lab Manager, Pathology Lab Director",
+  "loi": "20-25 Minutes",
+  "location": "United Kingdom, France, Germany, EU4 (Italy, Spain)",
+  "project_type":"PATHOLOGIST NETWORK SURVEY"

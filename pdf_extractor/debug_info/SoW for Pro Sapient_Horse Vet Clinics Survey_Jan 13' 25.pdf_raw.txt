@@ -1,0 +1,15 @@
+{
+  "target_group": "Vets",
+  "loi": "25-30 minutes",
+  "location": {
+    "region/country/geography": [
+      "Belgium",
+      "France",
+      "Germany",
+      "United Kingdom",
+      "Spain",
+      "United States",
+      "Netherlands",
+      "Ireland"
+    ]
+  }

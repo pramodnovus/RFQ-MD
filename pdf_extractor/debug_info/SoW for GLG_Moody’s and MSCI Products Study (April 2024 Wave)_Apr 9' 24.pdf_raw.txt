@@ -1,0 +1,6 @@
+{
+  "target_group": "Unimrkt will target respondents fulfilling the below mentioned criteria: • Must have the following decision-making authority regarding the procurement decision of 3rd party financial data:",
+  "loi": "Questionnaire: GLG will provide final questionnaire in English language in Word format along with programmed links. We assume that length of each interview will be approximately 20-25 minutes.",
+  "location": "Countries Language Sample France, Germany, Italy 20, English Spain, United Kingdom, United States 5",
+  "project_type": "MOODY’S AND MSCI PRODUCTS STUDY (APRIL 2024 WAVE)"
+}

@@ -1,0 +1,1 @@
+{'target_group': '18+ Osteoporosis patients (75% Females & 25% Males)', 'loi': '30-35 minutes', 'location': 'United States', 'project_type': 'Primary research on Severe Osteoporosis Patients Survey (Wave 3)'}

@@ -1,0 +1,6 @@
+{
+  "target_group": "C-Suite Level or Equivalent, Senior Vice President or Equivalent, Vice President Level or Equivalent, Director Level or Equivalent, Manager Level or Equivalent",
+  "loi": "20-25 minutes",
+  "location": "Global English 40 (Region Language Sample)",
+  "project_type":"NICE Partner Trends Study"
+}

@@ -1,0 +1,1 @@
+{'target_group': 'Residential builders, Specialty contractors (i.e. Insulation contractors, roofing contractors, decking contractors, etc., specializing in a particular product category), Residential remodelers', 'loi': '20-25 minutes', 'location': 'United States', 'project_type': 'Builder Series 2024 (July Wave) Survey'}

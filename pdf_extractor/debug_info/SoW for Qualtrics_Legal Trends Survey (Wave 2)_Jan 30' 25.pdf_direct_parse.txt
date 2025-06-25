@@ -1,0 +1,1 @@
+{'target_group': 'Decision Makers at large Law Firms (AmLaw 200, NLJ 500, Global 1000)', 'loi': '25-30 Minutes', 'location': 'United States', 'project_type': 'Primary research'}

@@ -1,0 +1,6 @@
+{
+  "target_group": "decision-makers for choosing sanitary fittings and angle valves and working for both Commercial buildings and residentials",
+  "loi": "approximately 30-35 Minutes",
+  "location": "Countries: Germany, Austria, Belgium, Poland, United States, India; Languages: English and Local Languages TBD",
+  "project_type":"Sanitary Fittings Survey"
+}

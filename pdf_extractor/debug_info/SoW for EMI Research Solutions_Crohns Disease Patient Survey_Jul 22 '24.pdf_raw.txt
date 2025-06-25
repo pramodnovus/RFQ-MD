@@ -1,0 +1,6 @@
+{
+  "target_group": "Crohn’s Disease Patient Patients",
+  "loi": "30-35 Minutes",
+  "location": "United States",
+  "project_type": "Primary research"
+}

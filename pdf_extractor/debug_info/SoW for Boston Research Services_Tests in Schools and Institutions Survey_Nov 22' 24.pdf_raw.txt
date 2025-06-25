@@ -1,0 +1,6 @@
+{
+  "target_group": "Currently teaching in a private fee-paying school. Must be under the age group of 11-19. Must have the following role in relation to external english proficiency tests: Select or recommend the tests, Prepare students for the test, Use the results to inform teaching. Must be involved in the following types of tests: Placement Tests, Progress Tests, Certified Proficiency Tests.",
+  "loi": "Approximately up to 25-30 minutes",
+  "location": "Vietnam, Thailand",
+  "project_type": "Surveys"
+}

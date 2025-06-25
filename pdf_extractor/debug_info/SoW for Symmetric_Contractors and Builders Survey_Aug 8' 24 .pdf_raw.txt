@@ -1,0 +1,6 @@
+{
+  "target_group": "Residential or Commercial Builders fulfilling certain criteria",
+  "loi": "approximately 25-30 minutes",
+  "location": "United States, with specific states mentioned (California, Washington, Oregon, etc.)",
+  "project_type": "Research on Contractors and Builders Survey"
+}

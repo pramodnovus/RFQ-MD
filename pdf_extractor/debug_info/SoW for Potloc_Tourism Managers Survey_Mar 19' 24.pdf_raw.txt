@@ -1,0 +1,6 @@
+{
+  "target_group": "Tourism Managers",
+  "loi": "25-30 minutes",
+  "location": "Country Language Sample: France French TBD, Total Sample (n=) TBD",
+  "project_type":"Survey"
+}

@@ -1,0 +1,1 @@
+{'target_group': 'Sales Director, Channel Managers, Distribution, Partnerships, Account Managers', 'loi': '20-25 minutes', 'location': 'Italy (English/Italian), Home and Personal Products (FMCG) industry', 'project_type': 'HPC SECTOR SURVEY'}

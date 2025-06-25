@@ -1,0 +1,1 @@
+{'target_group': 'Operation Managers, Project Managers, Site Supervisors, IT Managers', 'loi': '10-15 minutes', 'location': 'United Kingdom (30), Highways, Civil Engineering, Landscaping, Construction', 'project_type': 'Field Service Management Software Survey'}

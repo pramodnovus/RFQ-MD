@@ -1,0 +1,1 @@
+{'target_group': 'Manager+ respondents who have knowledge of trends around CGMs', 'loi': '20-25 Minutes', 'location': 'United States English (Country Language Sample)', 'project_type': 'DME Continuous Glucose Monitoring Service Survey'}

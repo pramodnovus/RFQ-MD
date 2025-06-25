@@ -1,0 +1,6 @@
+{
+  "target_group": "18+ respondents who have worked at or are currently working at a high tech start up and have interacted with senior high-tech executives.",
+  "loi": "approximately up to 25 Minutes",
+  "location": "United States English 34",
+  "project_type": "Start-up Mobility Survey"
+}

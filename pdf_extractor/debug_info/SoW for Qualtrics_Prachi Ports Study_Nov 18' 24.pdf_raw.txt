@@ -1,0 +1,6 @@
+{
+  "target_group": "full time professionals that work at Port Authority Organizations aligned to seaports",
+  "loi": "approximately 25-30 minutes",
+  "location": "United States, Vancouver",
+  "project_type": "primary research"
+}

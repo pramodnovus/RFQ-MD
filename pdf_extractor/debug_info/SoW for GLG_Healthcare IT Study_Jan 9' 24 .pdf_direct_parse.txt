@@ -1,0 +1,1 @@
+{'target_group': 'healthcare executives', 'loi': '30-35 minutes', 'location': 'United States', 'project_type': 'Healthcare IT Study'}

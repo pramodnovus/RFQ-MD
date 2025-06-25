@@ -1,0 +1,1 @@
+{'target_group': 'BUSINESS TECHNOLOGY CUSTOMERS SURVEY (JANUARY 2025 WAVE)', 'loi': 'approximately 20-25 Minutes', 'location': 'Global English', 'project_type': ''}

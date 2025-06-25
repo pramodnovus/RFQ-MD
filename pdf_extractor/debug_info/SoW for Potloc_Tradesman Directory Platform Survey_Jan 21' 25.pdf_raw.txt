@@ -1,0 +1,6 @@
+{
+  "target_group": "18+ respondents who works as Tradesman",
+  "loi": "approximately 35-40 minutes",
+  "location": "United Kingdom English",
+  "project_type": "Tradesman Directory Platform Survey"
+}

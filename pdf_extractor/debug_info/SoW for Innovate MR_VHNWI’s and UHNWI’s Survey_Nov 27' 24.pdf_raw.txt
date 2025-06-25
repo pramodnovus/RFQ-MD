@@ -1,0 +1,6 @@
+{
+  "target_group": "VHNWI's and UHNWI's",
+  "loi": "approximately 25-30 minutes",
+  "location": "United States of America, Canada, Mexico, Brazil, Argentina, Chile, United Kingdom, Germany, France, Switzerland, Italy, Norway, UAE/Kuwait/Saudi Arabia, Japan, China, Australia, India, Hong Kong SAR, Singapore, Luxembourg, Netherlands, South Korea",
+  "project_type": ""
+}

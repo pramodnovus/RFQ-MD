@@ -1,0 +1,1 @@
+{'target_group': 'Patients with MDS 33', 'loi': 'approximately 35-40 Minutes', 'location': 'United States, English', 'project_type': 'MDS Patient Study (Wave 6)'}

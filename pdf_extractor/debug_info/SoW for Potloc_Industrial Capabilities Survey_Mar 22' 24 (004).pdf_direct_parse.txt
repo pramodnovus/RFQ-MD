@@ -1,0 +1,1 @@
+{'target_group': '18+ respondents who has an overview of the manufacturing operations of the factory in Dubai', 'loi': '20-25 minutes', 'location': 'United Arab Emirates, Dubai', 'project_type': 'Industrial Capabilities Survey'}

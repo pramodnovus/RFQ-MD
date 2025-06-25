@@ -1,0 +1,6 @@
+{
+  "target_group": "Manager or higher in the marketing department, OR Manager or higher in the commercial department, OR CFO, OR CEO",
+  "loi": "20-25 Minutes",
+  "location": "Italy, Country Language Sample (30)",
+  "project_type": "LUXURY MANUFACTURERS SURVEY"
+}

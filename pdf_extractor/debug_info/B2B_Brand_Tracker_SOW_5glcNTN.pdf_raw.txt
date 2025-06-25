@@ -1,0 +1,6 @@
+{
+  "target_group": "USA - Digital Industries 65\nUSA - Smart Infrastructure 20\nUSA - Mobility 15\nUSA TOTAL 100,\nQuotas China - Digital Industries 35\nChina - Smart Infrastructure 20\nChina - Mobility 15\nCHINA TOTAL 70,\nGermany - Digital Industries 35\nGermany - Smart 15\nInfrastructure, Germany - Mobility 10\nGERMANY TOTAL 60,\nIndia - Digital Industries 45\nIndia - Smart Infrastructure 25\nIndia - Mobility 15\nINDIA TOTAL 85,\nUK - Digital Industries 35\nUK - Smart Infrastructure 20\nUK - Mobility 15\nUK TOTAL 70,\nItaly - Digital Industries 35\nItaly - Smart Infrastructure 20\nItaly - Mobility 10\nITALY TOTAL 55,\nTOTAL - Digital Industries 250\nTOTAL - Smart Infrastructure 120\nTOTAL - Mobility 70\nTOTAL 440",
+  "loi": "25 minutes",
+  "location": "USA, China, Germany, India, UK, Italy",
+  "project_type": "Quant"
+}

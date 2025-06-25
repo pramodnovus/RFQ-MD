@@ -1,0 +1,6 @@
+{
+  "target_group": "18+ age of respondents who have recently worked in the railroad engineering or operations department of a US or Canadian railroad (2 years+) and is familiar with rail flagging services",
+  "loi": "10-15 minutes",
+  "location": "United States, Canada",
+  "project_type": "Rail Flagging Services Survey"
+}

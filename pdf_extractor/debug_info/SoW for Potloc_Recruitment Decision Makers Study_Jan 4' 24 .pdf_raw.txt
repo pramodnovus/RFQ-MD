@@ -1,0 +1,6 @@
+{
+  "target_group": "RECRUITMENT DECISION MAKERS STUDY",
+  "loi": "approximately 20-25 minutes",
+  "location": "Country: Sweden, Language: English, TBD Total Sample (n=) TBD",
+  "project_type":"Primary research"
+}

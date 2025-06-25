@@ -1,0 +1,1 @@
+{'target_group': '18+ respondents working at management position with responsibility for dealership marketing including websites and advertising.', 'loi': 'approximately 25-30 Minutes', 'location': 'United States', 'project_type': 'Car Dealership Survey'}

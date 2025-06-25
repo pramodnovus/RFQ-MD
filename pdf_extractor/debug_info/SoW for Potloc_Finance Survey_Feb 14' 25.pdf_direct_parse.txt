@@ -1,0 +1,1 @@
+{'target_group': 'decision makers in accounts receivable software at their company', 'loi': '10-15 Minutes (Slab 1), 20-25 Minutes (Slab 2)', 'location': 'United States, English language', 'project_type': 'Finance Survey'}

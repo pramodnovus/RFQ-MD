@@ -1,0 +1,1 @@
+{'target_group': 'Directors', 'loi': '20-25 minutes', 'location': 'United States of America, Nigeria, South Africa, Chile, Brazil, Mexico, Australia, China, South Korea, Singapore, Hong Kong', 'project_type': 'PE Firms Survey'}

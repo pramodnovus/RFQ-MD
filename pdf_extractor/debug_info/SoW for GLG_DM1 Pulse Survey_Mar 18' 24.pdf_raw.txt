@@ -1,0 +1,6 @@
+{
+  "target_group": "Neurologists/Neuromuscular Specialists",
+  "loi": "10-15 Minutes",
+  "location": "United States, Country Language Sample",
+  "project_type": "DM1 PULSE SURVEY"
+}

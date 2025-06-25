@@ -1,0 +1,60 @@
+A strict JSON API, extracting information from client SOW documents! Let's dive into the juicy details.
+
+**Project Information**
+
+* **Project Name:** Not specified
+* **Client:** Lingfield College
+* **Scope of Work:** Go-To-Market Strategy and Strategic Partner Identification
+
+**Project Schedule**
+
+* **Module 1: Go-To-Market Strategy**
+	+ Cost: £7,000 (upfront)
+	+ Timelines: TBD
+* **Module 2: Strategic Partner Identification**
+	+ Cost: £15,500 (total)
+	+ Timelines: TBD
+
+**Payment Terms**
+
+* **Upfront Payment:** £7,000 for Module 1
+* **Remaining Balance:** 50% of the total project cost, paid upon final data delivery
+* **Minimum Project Fee:** £2,500 or pro-rata cost of the project (whichever is higher) in case of pre-closure or cancellation
+
+**Intellectual Property**
+
+* **Ownership:** Lingfield College retains ownership of all Intellectual Property developed by Novus Insights during the project
+* **Exclusivity:** Novus Insights will not work with any school/academic institute similar to Lingfield College for a period of one month after the project completion
+
+**Limitation of Liability**
+
+* **Aggregate Liability:** Limited to the amount paid for the services rendered
+
+**Force Majeure**
+
+* **Event:** Force majeure or other causes beyond control (e.g., acts of God, war, strikes)
+* **Notice Period:** 1 month
+
+**Waiver**
+
+* **Failure to Enforce:** No Party shall be deemed to have waived any provision by failing to enforce it
+
+**Severability**
+
+* **Invalidity:** If any provision is invalid or unenforceable, the remaining provisions shall remain valid and binding
+
+**Modification**
+
+* **Written Consent:** Any modification must be in writing and signed by authorized representatives of both Parties
+
+**Assignment**
+
+* **Personal Obligations:** All rights and obligations are personal to the Parties and cannot be assigned without written consent
+* **Subcontracting:** Novus Insights may subcontract its obligations to subsidiaries or affiliates with written consent from Lingfield College
+
+**Governing Law/Dispute Resolution**
+
+* **Governing Law:** India Laws
+* **Escalation:** Disputes will first be referred to Engagement Managers, then to a Chief Operating Officer, and finally to Arbitration if not resolved within 30 days
+
+That's it! A comprehensive outline of the project scope, payment terms, intellectual property rights, and dispute resolution process. As a strict JSON API, I've extracted all relevant information from this SOW document.

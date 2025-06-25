@@ -1,0 +1,6 @@
+{
+  "target_group": "Head of Business Development, Procurement; Key Decision-Makers for in licensing assets at top Gx Pharma companies",
+  "loi": "approximately 15 Minutes",
+  "location": "EU (Stada, Teva, Viatris, Zentiva, Servier/Biogaran); United States; APAC",
+  "project_type": "Pharma Procurement Quant Survey"
+}

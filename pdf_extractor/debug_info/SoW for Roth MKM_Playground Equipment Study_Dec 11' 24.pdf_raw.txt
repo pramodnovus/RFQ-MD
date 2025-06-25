@@ -1,0 +1,6 @@
+{
+  "target_group": "senior decision-makers responsible for purchasing outdoor playground equipment, managing playground and park budgets, or involved in playground-related decisions",
+  "loi": "approximately 15-20 minutes",
+  "location": {
+    "region/country/geography": ["United States", "Canada"]
+  }

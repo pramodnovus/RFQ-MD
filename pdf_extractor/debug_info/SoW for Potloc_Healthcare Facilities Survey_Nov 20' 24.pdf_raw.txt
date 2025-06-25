@@ -1,0 +1,6 @@
+{
+  "target_group": "decision makers about analytics software for hospitals who have high level of influence over purchasing decision",
+  "loi": "up to 50 Minutes",
+  "location": "Netherlands, Germany",
+  "project_type": "Healthcare Facilities Survey"
+}

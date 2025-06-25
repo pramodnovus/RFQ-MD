@@ -1,0 +1,1 @@
+{'target_group': 'Senior Procurement Decision Makers/Directors/Managers', 'loi': '20-25 Minutes', 'location': 'France, Country Languages Sample (English and Local Languages)', 'project_type': 'Buyers of Diagnostic Machines Survey'}

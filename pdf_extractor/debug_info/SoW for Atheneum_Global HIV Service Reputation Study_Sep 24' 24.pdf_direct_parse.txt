@@ -1,0 +1,1 @@
+{'target_group': 'HCPs/KOLs, Patients Advocate, Payers', 'loi': '20 Minutes (non-attending conference), 30 Minutes (attending conference)', 'location': 'United States, EU5, Canada, China, Japan', 'project_type': 'Global HIV Service Reputation Study'}

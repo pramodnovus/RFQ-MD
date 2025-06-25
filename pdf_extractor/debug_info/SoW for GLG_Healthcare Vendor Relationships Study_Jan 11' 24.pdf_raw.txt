@@ -1,0 +1,6 @@
+{
+  "target_group": "Third Party Administrators (TPA)",
+  "loi": "20-25 minutes",
+  "location": "United States",
+  "project_type": "Healthcare Vendor Relationships Study"
+}

@@ -1,0 +1,6 @@
+{
+  "target_group": "students and alumni who studied education and has a master’s degree",
+  "loi": "25-30 minutes",
+  "location": "Spain (Country), Spanish (Language)",
+  "project_type": "B2C Student and Alumini Survey"
+}

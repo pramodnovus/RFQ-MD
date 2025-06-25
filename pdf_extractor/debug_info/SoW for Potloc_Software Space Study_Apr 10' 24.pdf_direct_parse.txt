@@ -1,0 +1,1 @@
+{'target_group': 'decision-makers such as VP, Managers in the supply chain, logistics, Product Management, and manufacturing', 'loi': 'approximately 30-35 minutes', 'location': 'Countries Language Sample: Finland, Sweden, Denmark', 'project_type': 'Software Space Study'}

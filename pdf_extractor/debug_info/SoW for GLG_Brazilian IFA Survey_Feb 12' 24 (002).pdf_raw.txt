@@ -1,0 +1,6 @@
+{
+  "target_group": "Independent Financial Advisors who are familiar or are current/former users, evaluators of XP and BTG",
+  "loi": "25-30 minutes",
+  "location": "Brazil",
+  "project_type": "Primary research"
+}

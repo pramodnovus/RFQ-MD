@@ -1,0 +1,1 @@
+{'target_group': 'Unimrkt will target respondents who either are a decision-maker in purchases related to slurry pumps or have experience in operating slurry pumps.', 'loi': 'approximately 20-25 Minutes', 'location': 'United States, Canada, Brazil, Australia, North America, South America, Argentina, Mexico', 'project_type': 'MINING SURVEY'}

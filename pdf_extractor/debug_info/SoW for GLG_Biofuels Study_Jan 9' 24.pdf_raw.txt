@@ -1,0 +1,6 @@
+{
+  "target_group": "Unimrkt will target the full-time and part-time employees who are knowledge about producing renewable fuels through feedstock and know or can comment on company's revenue in 2023.",
+  "loi": "20-25 Minutes",
+  "location": "United States, United Kingdom, France, Germany, Italy, Spain",
+  "project_type": "BIOFUELS STUDY"
+}

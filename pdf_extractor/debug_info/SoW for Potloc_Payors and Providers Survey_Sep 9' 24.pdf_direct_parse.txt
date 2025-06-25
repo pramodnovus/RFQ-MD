@@ -1,0 +1,1 @@
+{'target_group': 'Payors and Providers Survey', 'loi': '30-35 Minutes', 'location': 'United States', 'project_type': 'Primary Research'}

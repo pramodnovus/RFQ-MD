@@ -1,0 +1,6 @@
+{
+  "target_group": "Commercial Truck Drivers",
+  "loi": "10-15 minutes",
+  "location": "Northeast area, needs to drive on the PA Turnpike for work-related trips at least once per quarter",
+  "project_type": "Research"
+}

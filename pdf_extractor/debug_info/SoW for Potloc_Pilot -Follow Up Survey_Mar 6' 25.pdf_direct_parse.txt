@@ -1,0 +1,1 @@
+{'target_group': '18+ respondents who have the decision-making authority over aviation software used (in flight operations, flight planning, navigation data/charting)', 'loi': 'approximately 30-35 minutes', 'location': 'United States or EMEA', 'project_type': 'Pilot - Follow Up Survey'}

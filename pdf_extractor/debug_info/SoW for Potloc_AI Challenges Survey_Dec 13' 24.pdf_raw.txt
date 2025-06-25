@@ -1,0 +1,6 @@
+{
+  "target_group": "18+ respondents that have already used/implemented generative AI",
+  "loi": "approximately 15-20 minutes",
+  "location": "Countries: Austria, France, Germany, Switzerland, Italy, United Kingdom. Languages: English and Local Languages TBD.",
+  "project_type": "AI Challenges Survey"
+}

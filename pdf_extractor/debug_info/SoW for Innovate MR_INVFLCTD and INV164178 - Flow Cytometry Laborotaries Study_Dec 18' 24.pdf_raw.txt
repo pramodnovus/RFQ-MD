@@ -1,0 +1,6 @@
+{
+  "target_group": "Flow Laboratory Director (Experience > 3 years) / Flow laboratory Manager (Experience > 3 years), Principal Investigator (Experience > 3 years), Core Lab Manager (Experience > 3 years)",
+  "loi": {
+    "Quantitative Part": 20-25 Minutes,
+    "Qualitative Part": 30 Minutes
+  }

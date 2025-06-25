@@ -1,0 +1,6 @@
+{
+  "target_group": "Thailand EV Owners",
+  "loi": "20-25 minutes",
+  "location": "Thailand",
+  "project_type": "Research Survey"
+}

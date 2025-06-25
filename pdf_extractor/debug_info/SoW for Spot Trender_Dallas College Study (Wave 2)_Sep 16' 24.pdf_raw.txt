@@ -1,0 +1,6 @@
+{
+  "target_group": "those who are willing to join college and those who are already in college",
+  "loi": "approximately 30-35 minutes",
+  "location": "Dallas County, United States",
+  "project_type": "Primary research"
+}

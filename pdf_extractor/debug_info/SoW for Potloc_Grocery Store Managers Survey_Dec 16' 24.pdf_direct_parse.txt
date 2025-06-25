@@ -1,0 +1,1 @@
+{'target_group': 'Grocery Store Managers', 'loi': '25-30 Minutes', 'location': 'Southern Ontario, Canada / Quebec', 'project_type': 'Primary research'}

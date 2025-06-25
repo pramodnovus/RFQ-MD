@@ -1,0 +1,6 @@
+{
+  "target_group": "Restaurant Operators and Owners",
+  "loi": "25-30 minutes",
+  "location": "United Kingdom",
+  "project_type": "Research"
+}

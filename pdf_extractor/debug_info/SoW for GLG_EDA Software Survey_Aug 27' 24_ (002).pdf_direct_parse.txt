@@ -1,0 +1,1 @@
+{'target_group': 'Semiconductor companies involved in Integrated Circuit Design', 'loi': '20-25 minutes', 'location': 'United States', 'project_type': 'EDA SOFTWARE SURVEY'}

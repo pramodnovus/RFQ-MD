@@ -1,0 +1,6 @@
+{
+  "target_group": "Owners",
+  "loi": "25-30 Minutes",
+  "location": "United States English Maximum",
+  "project_type":"Independent Restaurant Owners Survey"
+}

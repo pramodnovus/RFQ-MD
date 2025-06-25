@@ -1,0 +1,1 @@
+{'target_group': 'patients who must be diagnosed with biopsy-confirmed IgAN', 'loi': 'approximately 40-45 Minutes', 'location': 'United States (region/country/geography)', 'project_type': ''}

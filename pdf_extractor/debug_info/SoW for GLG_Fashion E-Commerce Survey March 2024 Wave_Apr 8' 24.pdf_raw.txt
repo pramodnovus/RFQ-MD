@@ -1,0 +1,6 @@
+{
+  "target_group": "Senior Sales/Marketing Manager, Owner, CEO, CMO",
+  "loi": "30-35 Minutes",
+  "location": "Germany, United Kingdom, Spain, Italy, France",
+  "project_type": "Primary Research"
+}

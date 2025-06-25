@@ -1,0 +1,10 @@
+{
+  "target_group": "Hematology Directors (Treatment Area: In Vitro Diagnostics)",
+  "loi": "40 Minutes",
+  "location": {
+    "region/country/geography": [
+      "United States",
+      "China",
+      "EU4+United Kingdom"
+    ]
+  }

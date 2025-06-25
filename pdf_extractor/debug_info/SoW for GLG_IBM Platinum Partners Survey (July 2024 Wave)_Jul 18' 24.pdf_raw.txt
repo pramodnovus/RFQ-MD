@@ -1,0 +1,6 @@
+{
+  "target_group": "C-level or equivalent, SVP-level or equivalent, VP-level or equivalent, Director-level or equivalent",
+  "loi": "25-30 Minutes",
+  "location": "Global/English",
+  "project_type": "Primary research"
+}

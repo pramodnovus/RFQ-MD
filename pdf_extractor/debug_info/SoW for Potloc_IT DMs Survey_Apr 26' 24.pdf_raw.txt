@@ -1,0 +1,9 @@
+{
+  "target_group": "Unimrkt will target 18+ decision makers for IT equipment and connectivity within their companies.",
+  "loi": "25-30 minutes",
+  "location": {
+    "region/country/geography": [
+      "United Kingdom",
+      "Northern Ireland"
+    ]
+  }

@@ -1,0 +1,6 @@
+{
+  "target_group": "parents of K12 pupils in the below-listed schools",
+  "loi": "approximately 25-30 Minutes",
+  "location": "Singapore",
+  "project_type": "primary research"
+}

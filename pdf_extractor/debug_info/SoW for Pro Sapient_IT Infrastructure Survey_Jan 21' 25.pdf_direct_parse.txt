@@ -1,0 +1,1 @@
+{'target_group': 'Unimrkt will target the customers of Checkmk and Centreon.', 'loi': 'approximately 25-30 minutes', 'location': 'Countries Languages Sample, Germany, France, United States', 'project_type': 'IT INFRASTRUCTURE SURVEY'}

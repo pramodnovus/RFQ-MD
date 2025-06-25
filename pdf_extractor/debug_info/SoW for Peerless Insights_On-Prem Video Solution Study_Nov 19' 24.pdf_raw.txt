@@ -1,0 +1,6 @@
+{
+  "target_group": "individuals responsible for acquiring / implementing / managing physical security programs/systems & enterprise security operations centers",
+  "loi": "approximately 25-30 minutes",
+  "location": "United States",
+  "project_type": "On-Prem Video Solution Study"
+}

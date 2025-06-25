@@ -1,0 +1,6 @@
+{
+  "target_group": "Chief Technology Officer, Chief Data/Analytics Officer, Other C-suite (Non-CEO/CFO)",
+  "loi": "30-35 minutes",
+  "location": "United States",
+  "project_type": "Data and Information Insights Study"
+}

@@ -1,0 +1,6 @@
+{
+  "target_group": "Manufacturers & Retailers of Ready To Drink Solutions",
+  "loi": "45 mins",
+  "location": "UK",
+  "project_type": "Recruitment and moderation"
+}

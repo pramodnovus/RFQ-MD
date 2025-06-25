@@ -1,0 +1,1 @@
+{'target_group': 'Investors fulfilling the below mentioned criteria: • Hold at least one large insurance company in their portfolio • Actively seek out financial information about health insurance companies', 'loi': 'approximately 20-25 Minutes', 'location': 'United States English', 'project_type': 'ELEVANCE SURVEY (WAVE 4)'}

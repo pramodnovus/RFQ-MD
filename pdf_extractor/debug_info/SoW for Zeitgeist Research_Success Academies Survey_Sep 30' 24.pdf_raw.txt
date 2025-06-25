@@ -1,0 +1,6 @@
+{
+  "target_group": "Parents aged between 18-59, children aged 2-11 living in their household",
+  "loi": "20-25 Minutes",
+  "location": "Staten Island (zip codes: 10301, 10302, 10303, 10310; Mid Island: 10304, 10305, 10306, 10314)",
+  "project_type": "Primary research"
+}

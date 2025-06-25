@@ -1,0 +1,6 @@
+{
+  "target_group": "KITCHEN MANUFACTURERS AND INSTALLATIONS STUDY",
+  "loi": "35-40 Minutes (30 Questions max)",
+  "location": "United Kingdom, TBD (To Be Determined), Country Language Sample",
+  "project_type": "Primary Research"
+}

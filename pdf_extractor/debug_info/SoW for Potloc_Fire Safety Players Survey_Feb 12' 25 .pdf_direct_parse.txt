@@ -1,0 +1,1 @@
+{'target_group': '18+ age of respondents who are in charge of fire safety for user buildings (detection/extinguishing systems)', 'loi': '20-25 minutes', 'location': 'France, regions with presence (Departments: 06, 13, 14, 16, 22, 31, 33, 44, 49, 57, 59, 83, 89) and without a presence from Eris and subsidiaries (meaning all other regions)', 'project_type': ''}

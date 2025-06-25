@@ -1,0 +1,6 @@
+{
+  "target_group": "Commercial interior designers who work on commercial interior design eg. interiors in office buildings, hospitals, and schools (No Restaurants)",
+  "loi": "approximately 20-25 minutes",
+  "location": "United States",
+  "project_type": "Commercial Interior Designers Survey"
+}

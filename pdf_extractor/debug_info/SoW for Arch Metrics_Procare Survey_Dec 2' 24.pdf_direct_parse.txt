@@ -1,0 +1,1 @@
+{'target_group': 'Unimrkt will target the respondents from the childcare centres that use Procare as their Centre Management Software to understand trends in attendance levels.', 'loi': 'We assume that length of each interview will be approximately 20-25 Minutes.', 'location': 'United States', 'project_type': 'PROCARE SURVEY'}

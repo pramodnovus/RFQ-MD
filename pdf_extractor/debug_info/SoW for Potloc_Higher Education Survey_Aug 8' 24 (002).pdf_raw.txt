@@ -1,0 +1,6 @@
+{
+  "target_group": "18–30-year-old higher education students (bachelor's or master’s Student) enrolled in private schools within the following disciplines: • Engineering • Health • Law • Business • IT",
+  "loi": "30-35 minutes",
+  "location": "Countries Language Sample Tunisia South Africa Nigeria Morocco Total Sample (n=) 75-100",
+  "project_type": "Higher Education Survey"
+}

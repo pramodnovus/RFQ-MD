@@ -1,0 +1,1 @@
+{'target_group': 'decision makers about the selection/purchase of access control solutions', 'loi': '20-30 minutes', 'location': 'United States', 'project_type': 'Community Study Sampling Study'}

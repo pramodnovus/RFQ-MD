@@ -1,0 +1,1 @@
+{'target_group': 'Current customers of Tablo dialysis tech, IDN/Hospital Admin or At-Home Admin', 'loi': '20-25 Minutes', 'location': 'United States', 'project_type': 'Dialysis Tech Trends Survey'}

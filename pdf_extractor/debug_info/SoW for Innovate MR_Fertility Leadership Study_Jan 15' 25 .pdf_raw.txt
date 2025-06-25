@@ -1,0 +1,6 @@
+{
+  "target_group": "Senior Leaders: Marketing Director/VP, Chief Marketing Officer, Finance/Growth/Revenue Cycle Manager, CFO, CEO, Operations Director, COO; Clinic/Lab Operations: Practice Manager, Medical Directors, Embryologist/Lab Director; Clinic Level Staff: Fertility Nurses, Advanced Practice Providers, Reproductive Endocrinologists",
+  "loi": "35-40 minutes",
+  "location": "United States",
+  "project_type": "Fertility Leadership Study"
+}

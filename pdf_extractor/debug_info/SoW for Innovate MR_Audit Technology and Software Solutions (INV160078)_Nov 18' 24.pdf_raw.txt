@@ -1,0 +1,6 @@
+{
+  "target_group": "IT Decision Makers",
+  "loi": "25-30 minutes",
+  "location": "United States",
+  "project_type": "Audit Technology and Software Solutions"
+}

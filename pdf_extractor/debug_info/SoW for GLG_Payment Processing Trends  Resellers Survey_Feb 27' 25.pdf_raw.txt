@@ -1,0 +1,6 @@
+{
+  "target_group": "Sellers of Verifone and/or Ingenico point-of-sale systems/devices",
+  "loi": "20-25 minutes",
+  "location": "United States/Europe",
+  "project_type": "Payment Processing Trends – Resellers Survey"
+}

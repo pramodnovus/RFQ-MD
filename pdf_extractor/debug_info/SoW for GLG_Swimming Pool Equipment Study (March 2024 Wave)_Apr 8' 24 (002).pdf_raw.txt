@@ -1,0 +1,6 @@
+{
+  "target_group": "Installers and Distributors of pool equipment in the United States",
+  "loi": "20 Minutes",
+  "location": "United States",
+  "project_type": "Primary research on Swimming Pool Equipment Study (March 2024 Wave)"
+}

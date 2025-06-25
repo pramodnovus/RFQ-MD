@@ -1,0 +1,6 @@
+{
+  "target_group": "sole-decision makers or respondents who are part of a small group/team of decision-makers",
+  "loi": "20-25 minutes",
+  "location": "United States",
+  "project_type": "Pest Control Trends Study (Wave 2)"
+}

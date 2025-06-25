@@ -1,0 +1,1 @@
+{'target_group': 'full-time employees handling responsibilities within the following functions: Logistics, Management/Operations, Supply Chain/Procurement, Warehousing/Distribution', 'loi': '20-25 minutes', 'location': 'United States and Canada', 'project_type': 'Logistics and Procurement Survey'}

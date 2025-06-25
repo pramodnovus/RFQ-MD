@@ -1,0 +1,6 @@
+{
+  "target_group": "Full-Time/Part-Time employees who are knowledgeable about resins furniture and can discuss the latest trends in the resins furniture industry.",
+  "loi": "20-25 Minutes",
+  "location": "Countries (France, Germany, Italy, Spain, United Kingdom, United States), Language Sample (English)",
+  "project_type": "Resins Furniture Trends Survey"
+}

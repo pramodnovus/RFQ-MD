@@ -1,0 +1,6 @@
+{
+  "target_group": "Oncologists",
+  "loi": "20-25 minutes",
+  "location": "United States",
+  "project_type": "Oncologist Study (Wave 2)"
+}

@@ -1,0 +1,6 @@
+{
+  "target_group": "Patients with large B-cell lymphoma (i.e. DLBCL) or follicular lymphoma (FL), Caregivers/loved ones of patients with DLBCL or FL",
+  "loi": "approximately 35-40 Minutes",
+  "location": "United States, English language",
+  "project_type": "Primary research on CAR T Patient Refusal Materials Testing Survey"
+}

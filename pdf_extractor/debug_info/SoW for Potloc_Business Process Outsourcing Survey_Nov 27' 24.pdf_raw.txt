@@ -1,0 +1,6 @@
+{
+  "target_group": "Currently outsource some business process services, Involved in the decision-making process regarding BPO (Business Process Outsourcing)",
+  "loi": "25-30 Minutes",
+  "location": "United Kingdom, Scotland, Dundee, Nottingham, Birmingham, Derby, Edinburgh, Glasgow",
+  "project_type": "Business Process Outsourcing Survey"
+}

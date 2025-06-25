@@ -1,0 +1,1 @@
+{'target_group': 'Salon Owners and Stylist Survey', 'loi': 'approximately 1 hour and 15 minutes', 'location': 'United States', 'project_type': 'Primary research'}

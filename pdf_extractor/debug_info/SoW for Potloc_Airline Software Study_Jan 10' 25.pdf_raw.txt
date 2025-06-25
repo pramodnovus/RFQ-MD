@@ -1,0 +1,6 @@
+{
+  "target_group": "hobbyists or wealthy individuals who have their own planes, Director of Flight Operations, VP of Operations, Procurement Manager, IT Manager (Aviation Systems), Safety and Compliance Manager, C-suite executives, Other relevant titles",
+  "loi": "25-35 Minutes",
+  "location": "United States, Europe, APAC",
+  "project_type": "Airline Software Study"
+}

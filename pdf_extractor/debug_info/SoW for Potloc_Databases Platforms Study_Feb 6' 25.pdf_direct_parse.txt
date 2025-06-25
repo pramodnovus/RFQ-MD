@@ -1,0 +1,1 @@
+{'target_group': 'European based database platform', 'loi': '10 Minutes', 'location': 'Europe', 'project_type': 'DATABASES PLATFORMS STUDY'}

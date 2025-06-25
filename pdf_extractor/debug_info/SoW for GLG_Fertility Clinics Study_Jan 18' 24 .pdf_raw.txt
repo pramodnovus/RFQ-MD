@@ -1,0 +1,6 @@
+{
+  "target_group": "Reproductive Endocrinologist, Gynaecologist or Obstetrician working in IVF, IVF Lab Director, Embryologist, IVF Clinic Leadership, Procurement leader for Clinic Group",
+  "loi": "20-25 Minutes",
+  "location": "China, Country-wide",
+  "project_type": "Primary research on Fertility Clinics Study"
+}

@@ -1,0 +1,922 @@
+[2025-06-17 11:09:47] Found 388 files to process
+[2025-06-17 11:09:47] 
+--- Processing 1/388: B2B_Brand_Tracker_SOW_5glcNTN.pdf ---
+No text found via pdfplumber, running OCR on 'B2B_Brand_Tracker_SOW_5glcNTN.pdf' ...
+[2025-06-17 11:14:05] Warning: Could not extract valid fields from JSON
+[2025-06-17 11:14:05] JSON content was:
+{
+  "target_group": "USA - Digital Industries 65\nUSA - Smart Infrastructure 20\nUSA - Mobility 15\nUSA TOTAL 100,\nQuotas China - Digital Industries 35\nChina - Smart Infrastructure 20\nChina - Mobility 15\nCHINA TOTAL 70,\nGermany - Digital Industries 35\nGermany - Smart 15\nInfrastructure, Germany - Mobility 10\nGERMANY TOTAL 60,\nIndia - Digital Industries 45\nIndia - Smart Infrastructure 25\nIndia - Mobility 15\nINDIA TOTAL 85,\nUK - Digital Industries 35\nUK - Smart Infrastructure 20\nUK - Mobility 15\nUK TOTAL 70,\nItaly - Digital Industries 35\nItaly - Smart Infrastructure 20\nItaly - Mobility 10\nITALY TOTAL 55,\nTOTAL - Digital Industries 250\nTOTAL - Smart Infrastructure 120\nTOTAL - Mobility 70\nTOTAL 440",
+  "loi": "25 minutes",
+  "location": "USA, China, Germany, India, UK, Italy",
+  "project_type": "Quant"
+}...
+[2025-06-17 11:14:05] 
+--- Processing 2/388: B2B_Coffee_Manufacturer__Retail.pdf ---
+No text found via pdfplumber, running OCR on 'B2B_Coffee_Manufacturer__Retail.pdf' ...
+[2025-06-17 11:16:14] Warning: Could not extract valid fields from JSON
+[2025-06-17 11:16:14] JSON content was:
+{
+  "target_group": "Manufacturers & Retailers of Ready To Drink Solutions",
+  "loi": "45 mins",
+  "location": "UK",
+  "project_type": "Recruitment and moderation"
+}...
+[2025-06-17 11:16:14] 
+--- Processing 3/388: Novus_Insights_SOW_For_Lingfield_College_Go-To-Market_Strategy_and_Par_eK65yFU.pdf ---
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+[2025-06-17 11:26:38] Direct parse failed: Expecting value: line 1 column 1 (char 0)
+[2025-06-17 11:26:38] Cleaned parse failed: Expecting value: line 1 column 1 (char 0)
+[2025-06-17 11:26:38] Warning: Could not extract valid fields from JSON
+[2025-06-17 11:26:38] JSON content was:
+A strict JSON API, extracting information from client SOW documents! Let's dive into the juicy details.
+
+**Project Information**
+
+* **Project Name:** Not specified
+* **Client:** Lingfield College
+* **Scope of Work:** Go-To-Market Strategy and Strategic Partner Identification
+
+**Project Schedule**
+
+* **Module 1: Go-To-Market Strategy**
+	+ Cost: £7,000 (upfront)
+	+ Timelines: TBD
+* **Module 2: Strategic Partner Identification**
+	+ Cost: £15,500 (total)
+	+ Timelines: TBD
+
+**Payment Terms**
+
+* **Upfront Payment:** £7,000 for Module 1
+* **Remaining Balance:** 50% of the total project cost, paid upon final data delivery
+* **Minimum Project Fee:** £2,500 or pro-rata cost of the project (whichever is higher) in case of pre-closure or cancellation
+
+**Intellectual Property**
+
+* **Ownership:** Lingfield College retains ownership of all Intellectual Property developed by Novus Insights during the project
+* **Exclusivity:** Novus Insights will not work with any school/academic institute similar to ...
+[2025-06-17 11:26:38] 
+--- Processing 4/388: SOW_for_Coleman_Parkes_Human_to_AI_Agent_CP4179.pdf ---
+[2025-06-17 11:30:06] Warning: Could not extract valid fields from JSON
+[2025-06-17 11:30:06] JSON content was:
+{
+  "target_group": "FSI executives (remotely or in person) leading Consumer/Small business engagements/interactions/inbound & outbound strategy",
+  "loi": "approximately 25 Minutes",
+  "location": "Europe, APAC, LATAM, North America",
+  "project_type": "Primary research"
+}...
+[2025-06-17 11:30:06] 
+--- Processing 5/388: SoW for 10K Humans_MDS Patient Study (Wave 6)_Nov 29' 24.pdf ---
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+[2025-06-17 11:33:19] Warning: Could not extract valid fields from JSON
+[2025-06-17 11:33:19] JSON content was:
+{
+  "target_group": "Patients with MDS 33",
+  "loi": "approximately 35-40 Minutes",
+  "location": "United States, English",
+  "project_type": "MDS Patient Study (Wave 6)"
+}...
+[2025-06-17 11:33:19] 
+--- Processing 6/388: SoW for 10K Humans_Phoebe Putney Health System Brand Tracker Study Wave 3 2024_Sep 2' 24.pdf ---
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+[2025-06-17 11:36:30] Warning: Could not extract valid fields from JSON
+[2025-06-17 11:36:30] JSON content was:
+{
+  "target_group": "Healthcare consumers who are 18 years and above, living in one of the zip codes mentioned in the below client provided list",
+  "loi": "20-25 Minutes",
+  "location": "United States, Georgia, English",
+  "project_type": "Phoebe Putney Health System Brand Tracker Study Wave 3 2024"
+}...
+[2025-06-17 11:36:30] 
+--- Processing 7/388: SoW for Adience_Freight Forwarders and Airports DMs Survey_Nov 22' 24.pdf ---
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+[2025-06-17 11:39:14] Warning: Could not extract valid fields from JSON
+[2025-06-17 11:39:14] JSON content was:
+{
+  "target_group": "Freight Forwarders and Airports DMs",
+  "loi": "25-30 Minutes",
+  "location": "Global",
+  "project_type": "Primary Research"
+}...
+[2025-06-17 11:39:14] 
+--- Processing 8/388: SoW for Allxprts_E-Commerce Tax Software Study_Feb 21' 25.pdf ---
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+[2025-06-17 11:42:26] Warning: Could not extract valid fields from JSON
+[2025-06-17 11:42:26] JSON content was:
+{
+  "target_group": "Unimrkt will target the respondents who qualify the below mentioned criteria: • Must be Full-time (30 or more hours per week) or Part-time / contractor • Must help reach the final decision as part of a group/committee or primary decision maker for the Indirect tax solutions (including software) and oversee all indirect tax management & compliance responsibilities",
+  "loi": "approximately 30-35 Minutes.",
+  "location": "United States, Europe",
+  "project_type": "E-COMMERCE TAX SOFTWARE STUDY"
+}...
+[2025-06-17 11:42:26] 
+--- Processing 9/388: SoW for Arch Metrics_ABA Center Survey_Dec 9' 24.pdf ---
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+[2025-06-17 11:45:14] Warning: Could not extract valid fields from JSON
+[2025-06-17 11:45:14] JSON content was:
+{
+  "target_group": "Unimrkt will target customers of Central Reach, customers of competitors and non-adopters.",
+  "loi": "approximately 35-40 Minutes",
+  "location": "United States",
+  "project_type": "Primary research on ABA Center Survey"
+}...
+[2025-06-17 11:45:14] 
+--- Processing 10/388: SoW for Arch Metrics_City-Wide Facility Solutions Survey_Mar 6 '25.pdf ---
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+[2025-06-17 11:48:05] Warning: Could not extract valid fields from JSON
+[2025-06-17 11:48:05] JSON content was:
+{
+  "target_group": "primary decision-makers for facility maintenance services of commercial properties (e.g. the person deciding what firm cleans an office property)",
+  "loi": "approximately 20-30 Minutes",
+  "location": "United States",
+  "project_type": "City-Wide Facility Solutions Survey"
+}...
+[2025-06-17 11:48:05] 
+--- Processing 11/388: SoW for Arch Metrics_Cubex Survey_Apr 19' 24 .pdf ---
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+[2025-06-17 11:50:56] Warning: Could not extract valid fields from JSON
+[2025-06-17 11:50:56] JSON content was:
+{
+  "target_group": "Dentists and Vets",
+  "loi": "20-25 Minutes",
+  "location": "United States",
+  "project_type": "CUBEX SURVEY"
+}...
+[2025-06-17 11:50:56] 
+--- Processing 12/388: SoW for Arch Metrics_Payroll SW Survey_Aug 29' 24.pdf ---
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+[2025-06-17 11:53:43] Warning: Could not extract valid fields from JSON
+[2025-06-17 11:53:43] JSON content was:
+{
+  "target_group": "current and former users/customers of Heartland Payroll Software",
+  "loi": "approximately 20-25 Minutes",
+  "location": "United States, Canada",
+  "project_type": "Payroll SW Survey"
+}...
+[2025-06-17 11:53:43] 
+--- Processing 13/388: SoW for Arch Metrics_Procare Survey_Dec 2' 24.pdf ---
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+[2025-06-17 11:56:35] Warning: Could not extract valid fields from JSON
+[2025-06-17 11:56:35] JSON content was:
+{
+  "target_group": "Unimrkt will target the respondents from the childcare centres that use Procare as their Centre Management Software to understand trends in attendance levels.",
+  "loi": "We assume that length of each interview will be approximately 20-25 Minutes.",
+  "location": "United States",
+  "project_type": "PROCARE SURVEY"
+}...
+[2025-06-17 11:56:35] 
+--- Processing 14/388: SoW for Arch Metrics_Procare Survey_Jan 2' 24.pdf ---
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+[2025-06-17 11:59:23] Warning: Could not extract valid fields from JSON
+[2025-06-17 11:59:23] JSON content was:
+{
+  "target_group": "childcare centres that use Procare as their Centre Management Software",
+  "loi": "20-25 Minutes",
+  "location": "United States",
+  "project_type": "PROCARE SURVEY"
+}...
+[2025-06-17 11:59:23] 
+--- Processing 15/388: SoW for Arch Metrics_Supplier Compliance and Document Management Survey_May 24' 24 (002).pdf ---
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+[2025-06-17 12:02:27] Warning: Could not extract valid fields from JSON
+[2025-06-17 12:02:27] JSON content was:
+{
+  "target_group": "the major influencer or the final decision maker in terms of making decisions specifically around supplier compliance (monitor real-time supplier compliance and documentation issues, generate supplier scorecards) and supplier management (collect, update, and centralize supplier documentation) tools usage at their company.",
+  "loi": "approximately 20-25 Minutes",
+  "location": "United States, Canada",
+  "project_type": "Supplier Compliance and Document Management Survey"
+}...
+[2025-06-17 12:02:27] 
+--- Processing 16/388: SoW for Atheneum_ADHD Quant Survey_Dec 16' 24.pdf ---
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+[2025-06-17 12:05:22] Warning: Could not extract valid fields from JSON
+[2025-06-17 12:05:22] JSON content was:
+{
+  "target_group": "NP/PA, Psychologists",
+  "loi": "20 Minutes",
+  "location": "United States, Canada",
+  "project_type":"Primary Research"
+}...
+[2025-06-17 12:05:22] 
+--- Processing 17/388: SoW for Atheneum_Global HIV Service Reputation Study_Sep 24' 24.pdf ---
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+[2025-06-17 12:08:20] Warning: Could not extract valid fields from JSON
+[2025-06-17 12:08:20] JSON content was:
+{
+  "target_group": "HCPs/KOLs, Patients Advocate, Payers",
+  "loi": "20 Minutes (non-attending conference), 30 Minutes (attending conference)",
+  "location": "United States, EU5, Canada, China, Japan",
+  "project_type":"Global HIV Service Reputation Study"
+}...
+[2025-06-17 12:08:20] 
+--- Processing 18/388: SoW for Atheneum_Invitro Diagnostics Survey_Dec 16' 24.pdf ---
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+[2025-06-17 12:11:08] Direct parse failed: Expecting ',' delimiter: line 10 column 4 (char 230)
+[2025-06-17 12:11:08] Cleaned parse failed: Expecting ',' delimiter: line 10 column 4 (char 230)
+[2025-06-17 12:11:08] Warning: Could not extract valid fields from JSON
+[2025-06-17 12:11:08] JSON content was:
+{
+  "target_group": "Hematology Directors (Treatment Area: In Vitro Diagnostics)",
+  "loi": "40 Minutes",
+  "location": {
+    "region/country/geography": [
+      "United States",
+      "China",
+      "EU4+United Kingdom"
+    ]
+  }...
+[2025-06-17 12:11:08] 
+--- Processing 19/388: SoW for Atheneum_Pharma Procurement Quant Survey_Dec 16' 24.pdf ---
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+[2025-06-17 12:13:56] Warning: Could not extract valid fields from JSON
+[2025-06-17 12:13:56] JSON content was:
+{
+  "target_group": "Head of Business Development, Procurement; Key Decision-Makers for in licensing assets at top Gx Pharma companies",
+  "loi": "approximately 15 Minutes",
+  "location": "EU (Stada, Teva, Viatris, Zentiva, Servier/Biogaran); United States; APAC",
+  "project_type": "Pharma Procurement Quant Survey"
+}...
+[2025-06-17 12:13:56] 
+--- Processing 20/388: SoW for Big Village_ Medical Officer Research Survey_Jan 6' 25.pdf ---
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+[2025-06-17 12:17:00] Warning: Could not extract valid fields from JSON
+[2025-06-17 12:17:00] JSON content was:
+{
+  "target_group": "respondents who are 18 years old and above",
+  "loi": "20-25 Minutes",
+  "location": "United States",
+  "project_type": "Medical Officer Research Survey"
+}...
+[2025-06-17 12:17:00] 
+--- Processing 21/388: SoW for Boston Research Services_American Electorate Voters Study_Nov 18' 24 .pdf ---
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+[2025-06-17 12:20:00] Warning: Could not extract valid fields from JSON
+[2025-06-17 12:20:00] JSON content was:
+{
+  "target_group": "American Electorate Voters Study",
+  "loi": "15-20 minutes",
+  "location": "US States, English and Spanish languages",
+  "project_type": "primary research"
+}...
+[2025-06-17 12:20:00] 
+--- Processing 22/388: SoW for Boston Research Services_Tests in Schools and Institutions Survey_Nov 22' 24.pdf ---
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+[2025-06-17 12:23:11] Warning: Could not extract valid fields from JSON
+[2025-06-17 12:23:11] JSON content was:
+{
+  "target_group": "Currently teaching in a private fee-paying school. Must be under the age group of 11-19. Must have the following role in relation to external english proficiency tests: Select or recommend the tests, Prepare students for the test, Use the results to inform teaching. Must be involved in the following types of tests: Placement Tests, Progress Tests, Certified Proficiency Tests.",
+  "loi": "Approximately up to 25-30 minutes",
+  "location": "Vietnam, Thailand",
+  "project_type": "Surveys"
+}...
+[2025-06-17 12:23:11] 
+--- Processing 23/388: SoW for Cint_Gaming Developers Survey_May 1' 24v2.pdf ---
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+[2025-06-17 12:26:11] Warning: Could not extract valid fields from JSON
+[2025-06-17 12:26:11] JSON content was:
+{
+  "target_group": "Professional game developers who have an influence on decision making or be the final decision makers. Some of them should be users and non-users of Unity products.",
+  "loi": "Approximately 1 Hour 15 Minutes",
+  "location": "Countries Language Sample: United States, Canada",
+  "project_type": "Gaming Developers Survey"
+}...
+[2025-06-17 12:26:11] 
+--- Processing 24/388: SoW for Cint_Opinion Leaders Survey_Jan 7' 25.pdf ---
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+[2025-06-17 12:29:08] Warning: Could not extract valid fields from JSON
+[2025-06-17 12:29:08] JSON content was:
+{
+  "target_group": "Opinion Leaders",
+  "loi": "30-35 Minutes",
+  "location": "Azerbaijan, English and Local Languages",
+  "project_type": "Research"
+}...
+[2025-06-17 12:29:08] 
+--- Processing 25/388: SoW for Digital Research_Logistics and Procurement Survey_May 23' 24.pdf ---
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+[2025-06-17 12:32:15] Cleaned parse failed: Expecting ',' delimiter: line 2 column 99 (char 100)
+[2025-06-17 12:32:15] Warning: Could not extract valid fields from JSON
+[2025-06-17 12:32:15] JSON content was:
+{
+  "target_group": "full-time employees handling responsibilities within the following functions: Logistics, Management/Operations, Supply Chain/Procurement, Warehousing/Distribution",
+  "loi": "20-25 minutes",
+  "location": "United States and Canada",
+  "project_type": "Logistics and Procurement Survey"
+}...
+[2025-06-17 12:32:15] 
+--- Processing 26/388: SoW for EMI Research Solutions_CAR T Patient Refusal Materials Testing Survey_Mar 6' 25.pdf ---
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+[2025-06-17 12:35:21] Warning: Could not extract valid fields from JSON
+[2025-06-17 12:35:21] JSON content was:
+{
+  "target_group": "Patients with large B-cell lymphoma (i.e. DLBCL) or follicular lymphoma (FL), Caregivers/loved ones of patients with DLBCL or FL",
+  "loi": "approximately 35-40 Minutes",
+  "location": "United States, English language",
+  "project_type": "Primary research on CAR T Patient Refusal Materials Testing Survey"
+}...
+[2025-06-17 12:35:21] 
+--- Processing 27/388: SoW for EMI Research Solutions_CHI & MIL Brand Awareness Study (Wave 2)_Jan 7' 25.pdf ---
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+[2025-06-17 12:38:24] Warning: Could not extract valid fields from JSON
+[2025-06-17 12:38:24] JSON content was:
+{
+  "target_group": "full-time employees who have some level of responsibility while making decision for commercial banking at their organization",
+  "loi": "20-25 Minutes",
+  "location": "City Language Sample, Chicago, Southeast Winscoin (Milwaukee area)",
+  "project_type": "CHI & MIL BRAND AWARENESS STUDY (WAVE 2)"
+}...
+[2025-06-17 12:38:24] 
+--- Processing 28/388: SoW for EMI Research Solutions_CHI & MIL Brand Awareness Study_Jan 12' 24.pdf ---
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+[2025-06-17 12:41:23] Warning: Could not extract valid fields from JSON
+[2025-06-17 12:41:23] JSON content was:
+{
+  "target_group": "full-time employees who have some level of responsibility while making decision for commercial banking at their organization",
+  "loi": "20-25 Minutes",
+  "location": "Chicago, Southeast Winscoin (Milwaukee area)",
+  "project_type":"CHI & MIL BRAND AWARENESS STUDY"
+}...
+[2025-06-17 12:41:23] 
+--- Processing 29/388: SoW for EMI Research Solutions_Crohns Disease Patient Survey_Jul 22 '24.pdf ---
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+[2025-06-17 12:44:19] Warning: Could not extract valid fields from JSON
+[2025-06-17 12:44:19] JSON content was:
+{
+  "target_group": "Crohn’s Disease Patient Patients",
+  "loi": "30-35 Minutes",
+  "location": "United States",
+  "project_type": "Primary research"
+}...
+[2025-06-17 12:44:19] 
+--- Processing 30/388: SoW for EMI Research Solutions_IgAN Patients Survey (Wave 2)_Nov 18' 24.pdf ---
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+[2025-06-17 12:47:50] Warning: Could not extract valid fields from JSON
+[2025-06-17 12:47:50] JSON content was:
+{
+  "target_group": "patients who must be diagnosed with biopsy-confirmed IgAN",
+  "loi": "approximately 40-45 Minutes",
+  "location": "United States (region/country/geography)",
+  "project_type": ""
+}...
+[2025-06-17 12:47:50] 
+--- Processing 31/388: SoW for EMI Research Solutions_NY and NJ Food Manufacturers Survey_Dec 13' 24.pdf ---
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+[2025-06-17 12:51:00] Warning: Could not extract valid fields from JSON
+[2025-06-17 12:51:00] JSON content was:
+{
+  "target_group": "NY/NJ Manufacturing Decision Makers of Director Level+ seniority",
+  "loi": "20-25 Minutes",
+  "location": "United States (Country), NY and NJ (Region/Geography)",
+  "project_type": "Primary research on NY and NJ Food Manufacturers Survey"
+}...
+[2025-06-17 12:51:00] 
+--- Processing 32/388: SoW for EMI Research Solutions_Severe Osteoporosis Patients Survey (April 2024 Wave)_Apr 25' 24.pdf ---
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+[2025-06-17 12:53:55] Warning: Could not extract valid fields from JSON
+[2025-06-17 12:53:55] JSON content was:
+{
+  "target_group": "18+ Osteoporosis patients (75% Females & 25% Males)",
+  "loi": "30-35 Minutes",
+  "location": "United States",
+  "project_type": ""
+}...
+[2025-06-17 12:53:55] 
+--- Processing 33/388: SoW for EMI Research Solutions_Severe Osteoporosis Patients Survey (Wave 2)_Jan 31' 24.pdf ---
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+[2025-06-17 12:56:50] Warning: Could not extract valid fields from JSON
+[2025-06-17 12:56:50] JSON content was:
+{
+  "target_group": "18+ Osteoporosis patients (75% Females & 25% Males)",
+  "loi": "30-35 Minutes",
+  "location": "United States",
+  "project_type": ""
+}...
+[2025-06-17 12:56:50] 
+--- Processing 34/388: SoW for EMI Research Solutions_Severe Osteoporosis Patients Survey (Wave 3)_Apr 25' 24 .pdf ---
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+[2025-06-17 12:59:48] Warning: Could not extract valid fields from JSON
+[2025-06-17 12:59:48] JSON content was:
+{
+  "target_group": "18+ Osteoporosis patients (75% Females & 25% Males)",
+  "loi": "30-35 minutes",
+  "location": "United States",
+  "project_type": "Primary research on Severe Osteoporosis Patients Survey (Wave 3)"
+}...
+[2025-06-17 12:59:48] 
+--- Processing 35/388: SoW for EMI Research Solutions_UC Patients Mia Survey_May 27' 24 (002).pdf ---
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+[2025-06-17 13:02:35] Warning: Could not extract valid fields from JSON
+[2025-06-17 13:02:35] JSON content was:
+{
+  "target_group": "Unimrkt will target consumers of 25-60 years of age with an ailment of Ulcerative Colitis",
+  "loi": "30-35 Minutes",
+  "location": "United States",
+  "project_type": "Primary research on UC Patients Mia Survey"
+}...
+[2025-06-17 13:02:35] 
+--- Processing 36/388: SoW for EMI Research Solutions_Ulcerative Colitis Patients Survey (Q1 2025)_Jan 31' 25.pdf ---
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+[2025-06-17 13:05:28] Warning: Could not extract valid fields from JSON
+[2025-06-17 13:05:28] JSON content was:
+{
+  "target_group": "18+ Ulcerative Colitis Patients",
+  "loi": "20-25 Minutes",
+  "location": "United States, English language",
+  "project_type": "Primary research"
+}...
+[2025-06-17 13:05:28] 
+--- Processing 37/388: SoW for EMI Research Solutions_Ulcerative Colitis Patients Survey_May 27' 24.pdf ---
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+[2025-06-17 13:08:29] Warning: Could not extract valid fields from JSON
+[2025-06-17 13:08:29] JSON content was:
+{
+  "target_group": "Unimrkt will target consumers of 25-60 years of age with an ailment of Ulcerative Colitis.",
+  "loi": "length of each interview will be 30-35 Minutes",
+  "location": "United States",
+  "project_type": "ULCERATIVE COLITIS PATIENTS SURVEY"
+}...
+[2025-06-17 13:08:29] 
+--- Processing 38/388: SoW for Emporia Research_Beef and Lamb Survey_Nov 29' 24.pdf ---
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+[2025-06-17 13:11:24] Warning: Could not extract valid fields from JSON
+[2025-06-17 13:11:24] JSON content was:
+{
+  "target_group": "Retailer, Food service, Manufacturer, Distributor, Trader",
+  "loi": "20-25 Minutes",
+  "location": "Germany, Austria, Belgium, Sweden",
+  "project_type": "Primary research on Beef and Lamb Survey"
+}...
+[2025-06-17 13:11:24] 
+--- Processing 39/388: SoW for GLG_ ACHC Referral Volume and Trends Survey_Dec 11' 24_.pdf ---
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+[2025-06-17 13:14:09] Warning: Could not extract valid fields from JSON
+[2025-06-17 13:14:09] JSON content was:
+{
+  "target_group": "Hospital / Emergency Department Administrators",
+  "loi": "20-25 Minutes",
+  "location": "United States",
+  "project_type": "Primary research"
+}...
+[2025-06-17 13:14:09] 
+--- Processing 40/388: SoW for GLG_Biofuels Study_Jan 9' 24.pdf ---
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+[2025-06-17 13:17:12] Cleaned parse failed: Expecting ',' delimiter: line 2 column 181 (char 182)
+[2025-06-17 13:17:12] Warning: Could not extract valid fields from JSON
+[2025-06-17 13:17:12] JSON content was:
+{
+  "target_group": "Unimrkt will target the full-time and part-time employees who are knowledge about producing renewable fuels through feedstock and know or can comment on company's revenue in 2023.",
+  "loi": "20-25 Minutes",
+  "location": "United States, United Kingdom, France, Germany, Italy, Spain",
+  "project_type": "BIOFUELS STUDY"
+}...
+[2025-06-17 13:17:12] 
+--- Processing 41/388: SoW for GLG_Brazilian IFA Survey_Feb 12' 24 (002).pdf ---
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+[2025-06-17 13:19:54] Warning: Could not extract valid fields from JSON
+[2025-06-17 13:19:54] JSON content was:
+{
+  "target_group": "Independent Financial Advisors who are familiar or are current/former users, evaluators of XP and BTG",
+  "loi": "25-30 minutes",
+  "location": "Brazil",
+  "project_type": "Primary research"
+}...
+[2025-06-17 13:19:54] 
+--- Processing 42/388: SoW for GLG_Brazilian IFA Survey_Feb 12' 24.pdf ---
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+[2025-06-17 13:22:25] Warning: Could not extract valid fields from JSON
+[2025-06-17 13:22:25] JSON content was:
+{
+  "target_group": "Independent Financial Advisors",
+  "loi": "25-30 minutes",
+  "location": "Brazil",
+  "project_type": "Primary research on Brazilian IFA Survey"
+}...
+[2025-06-17 13:22:25] 
+--- Processing 43/388: SoW for GLG_Business Technology Customers Survey (January 2025 Wave)_Jan 21' 25.pdf ---
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+[2025-06-17 13:25:29] Warning: Could not extract valid fields from JSON
+[2025-06-17 13:25:29] JSON content was:
+{
+  "target_group": "BUSINESS TECHNOLOGY CUSTOMERS SURVEY (JANUARY 2025 WAVE)",
+  "loi": "approximately 20-25 Minutes",
+  "location": "Global English",
+  "project_type": ""
+}...
+[2025-06-17 13:25:29] 
+--- Processing 44/388: SoW for GLG_CFO's Capital Allocation Survey_May 21' 24.pdf ---
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+[2025-06-17 13:28:16] Cleaned parse failed: Expecting ',' delimiter: line 2 column 24 (char 25)
+[2025-06-17 13:28:16] Warning: Could not extract valid fields from JSON
+[2025-06-17 13:28:16] JSON content was:
+{
+  "target_group": "CFO's",
+  "loi": "25-30 Minutes",
+  "location": "Global, Region: English (70-90%)",
+  "project_type": "Primary Research"
+}...
+[2025-06-17 13:28:16] 
+--- Processing 45/388: SoW for GLG_CFOS Capital Allocation Survey_May 21' 24.pdf ---
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+[2025-06-17 13:35:23] Direct parse failed: Expecting ',' delimiter: line 5 column 37 (char 132)
+[2025-06-17 13:35:23] Cleaned parse failed: Expecting ',' delimiter: line 2 column 24 (char 25)
+[2025-06-17 13:35:23] Warning: Could not extract valid fields from JSON
+[2025-06-17 13:35:23] JSON content was:
+{
+  "target_group": "CFO's",
+  "loi": "25-30 Minutes",
+  "location": "Global/English (70-90%)",
+  "project_type": "Primary Research"...
+[2025-06-17 13:35:23] 
+--- Processing 46/388: SoW for GLG_Cargo Shipping Survey (Wave 2)_Feb 20' 24v2.pdf ---
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox

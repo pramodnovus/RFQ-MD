@@ -1,0 +1,1 @@
+{'target_group': 'Purchasing Decision Makers or Influencers', 'loi': '30-35 minutes', 'location': 'United States, China, India, United Kingdom, Germany, France, Spain, Japan, South Korea, Brazil', 'project_type': 'Primary research on Purchasing Decision Makers Survey'}

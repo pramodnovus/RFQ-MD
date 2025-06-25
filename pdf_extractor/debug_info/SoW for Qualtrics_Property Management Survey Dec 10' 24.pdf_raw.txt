@@ -1,0 +1,6 @@
+{
+  "target_group": "Building Developers, Building Owners",
+  "loi": "30-35 Minutes",
+  "location": "United States",
+  "project_type": "Property Management Survey"
+}

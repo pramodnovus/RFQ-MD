@@ -1,0 +1,6 @@
+{
+  "target_group": "respondents who are responsible or co-responsible for energy purchasing in their company",
+  "loi": "25-30 Minutes",
+  "location": "France, Country Language (Per Wave)",
+  "project_type": "ENERGY PURCHASING STUDY (WAVE 3)"
+}

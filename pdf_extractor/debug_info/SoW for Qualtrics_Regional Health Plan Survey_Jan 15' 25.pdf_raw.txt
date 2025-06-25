@@ -1,0 +1,6 @@
+{
+  "target_group": "respondents employed by a regional health plan that is privately owned or owned by a provider or health network and is a primary/shared decision-maker or decision influencer when selecting vendors for implementing solutions",
+  "loi": "approximately 25-30 Minutes",
+  "location": "United States",
+  "project_type": "Regional Health Plan Survey"
+}

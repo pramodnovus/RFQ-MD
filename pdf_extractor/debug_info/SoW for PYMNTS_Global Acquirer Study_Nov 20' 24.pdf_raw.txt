@@ -1,0 +1,6 @@
+{
+  "target_group": "Acquirers that process sales transactions for retailers and executives who are serving eCommerce or retail businesses with responsibilities in the following areas: • Payment products for businesses • Customer Acquisition or Merchant Monitoring",
+  "loi": "20-25 Minutes",
+  "location": "Countries: Australia, Brazil, Mexico, Saudi Arabia, Singapore, United Arab Emirates, United Kingdom, United States; Languages: English and Local Languages; Sample: 200",
+  "project_type": "Primary research"
+}

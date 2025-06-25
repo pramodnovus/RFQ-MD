@@ -1,0 +1,6 @@
+{
+  "target_group": "Dentists and Vets",
+  "loi": "20-25 Minutes",
+  "location": "United States",
+  "project_type": "CUBEX SURVEY"
+}

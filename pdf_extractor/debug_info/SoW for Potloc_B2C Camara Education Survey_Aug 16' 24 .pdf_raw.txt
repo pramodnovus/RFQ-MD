@@ -1,0 +1,6 @@
+{
+  "target_group": "Students and Aluminis",
+  "loi": "40-45 minutes",
+  "location": "Spain, Country",
+  "project_type": "B2C Camara Education Survey"
+}

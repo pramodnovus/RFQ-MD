@@ -1,0 +1,6 @@
+{
+  "target_group": "Unimrkt will target respondents involved in the evaluation of field service management software solutions.",
+  "loi": "20-25 Minutes",
+  "location": "United States, United Kingdom",
+  "project_type": "Field Management Software Study"
+}

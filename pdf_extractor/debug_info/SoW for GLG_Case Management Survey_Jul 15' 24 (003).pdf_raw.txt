@@ -1,0 +1,6 @@
+{
+  "target_group": "Offenders who have been released into the community (Pre-trial release, Probation, Parole, etc.)",
+  "loi": "20-25 minutes",
+  "location": "United States",
+  "project_type": "Case Management Survey"
+}

@@ -1,0 +1,1 @@
+{'target_group': 'decision makers (will likely be in the IT, HR or more broadly G&A departments; titles can be a broad range but likely senior managers in each respective department) responsible for selecting HCM/WCM solutions for their enterprise.', 'loi': '20-25 Minutes', 'location': 'United States English TBD', 'project_type': 'HCM AND WFM SOFTWARE SOLUTIONS SURVEY'}

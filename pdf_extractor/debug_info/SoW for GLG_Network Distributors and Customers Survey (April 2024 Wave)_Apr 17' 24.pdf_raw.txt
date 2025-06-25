@@ -1,0 +1,6 @@
+{
+  "target_group": "Managers and above job roles respondents",
+  "loi": "20-25 Minutes",
+  "location": "Global, Region, Country/Geography",
+  "project_type": "Network Distributors and Customers Survey (April 2024 Wave)"
+}

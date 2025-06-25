@@ -1,0 +1,1 @@
+{'target_group': "Decision makers / key influencers in their organisation's mortgage software solutions", 'loi': '20-25 Minutes', 'location': 'United States', 'project_type': 'Mortgage Software Survey'}

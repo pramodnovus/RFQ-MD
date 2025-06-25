@@ -1,0 +1,6 @@
+{
+  "target_group": "Car Dealers",
+  "loi": "25-30 Minutes",
+  "location": "United Kingdom",
+  "project_type": "Primary Research"
+}

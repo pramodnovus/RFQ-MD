@@ -1,0 +1,17 @@
+{
+  "target_group": "Interior Designers",
+  "loi": "20-25 minutes",
+  "location": {
+    "region/country/geography": [
+      "Arizona",
+      "California",
+      "Colorado",
+      "Florida",
+      "Lowa",
+      "Kansas",
+      "Maryland",
+      "Massachusetts",
+      "Missouri",
+      "United States"
+    ]
+  }

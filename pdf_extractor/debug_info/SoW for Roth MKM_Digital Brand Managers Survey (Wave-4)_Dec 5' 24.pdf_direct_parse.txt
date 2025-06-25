@@ -1,0 +1,1 @@
+{'target_group': 'Digital brand managers at large enterprises/corporations using technology solutions that analyze the value of digital advertising placements, specifically ad verification services including Integral Ad Science (IAS) and DoubleVerify (DV).', 'loi': '15-20 minutes', 'location': 'United States', 'project_type': ''}

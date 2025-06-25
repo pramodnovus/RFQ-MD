@@ -1,0 +1,15 @@
+{
+  "target_group": [
+    "Institutional Investors",
+    "Public Investors",
+    "Prospective Employees",
+    "Pharma Partners",
+    "KOLs",
+    "Clinicians/Physicians"
+  ],
+  "loi": "20-25 Minutes",
+  "location": {
+    "country": "United States",
+    "language": "English",
+    "sample": "100"
+  }

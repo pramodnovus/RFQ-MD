@@ -1,0 +1,6 @@
+{
+  "target_group": "Must have the following level of involvement while taking decisions surrounding purchasing of medical equipment at their organization, including patient monitoring devices, medical imaging systems, diagnostic instruments, etc.",
+  "loi": "20-25 Minutes",
+  "location": "Brazil, Mexico, EU5, Eastern Europe, Southeast Asia, Indonesia",
+  "project_type": "Public Monitoring Systems and Imaging Usage Study"
+}

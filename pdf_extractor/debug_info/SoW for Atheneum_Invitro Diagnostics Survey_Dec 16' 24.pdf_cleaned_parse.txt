@@ -1,0 +1,1 @@
+{'target_group': 'Hematology Directors (Treatment Area: In Vitro Diagnostics)', 'loi': '40 Minutes', 'location': 'United States, China, EU4+United Kingdom', 'project_type': 'Primary research on Invitro Diagnostics Survey'}

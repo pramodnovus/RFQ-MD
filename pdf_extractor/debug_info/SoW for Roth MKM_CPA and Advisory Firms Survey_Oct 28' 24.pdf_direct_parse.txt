@@ -1,0 +1,1 @@
+{'target_group': 'CPA Firms including Frazier & Deeter (Atlanta-based firm providing audit, tax and advisory services to businesses and individuals).', 'loi': '20 Minutes.', 'location': 'Southeast United States', 'project_type': 'CPA AND ADVISORY FIRMS SURVEY'}

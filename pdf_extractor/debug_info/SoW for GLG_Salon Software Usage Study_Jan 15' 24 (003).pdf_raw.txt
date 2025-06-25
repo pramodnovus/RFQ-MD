@@ -1,0 +1,6 @@
+{
+  "target_group": "sole decision makers or individuals who are part of a small group/team of final decision-makers",
+  "loi": "approximately 20-25 Minutes",
+  "location": "United States, Country Language Sample: English 35-50",
+  "project_type": "Salon Software Usage Study"
+}

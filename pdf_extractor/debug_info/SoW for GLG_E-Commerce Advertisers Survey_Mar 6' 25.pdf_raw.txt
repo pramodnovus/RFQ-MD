@@ -1,0 +1,6 @@
+{
+  "target_group": "E-Commerce Advertisers",
+  "loi": "25-30 Minutes",
+  "location": "United States",
+  "project_type": "Primary Research"
+}

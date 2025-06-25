@@ -1,0 +1,6 @@
+{
+  "target_group": "Owners, Partners, Managers",
+  "loi": "20-30 Minutes",
+  "location": "United States",
+  "project_type": "Independent Greek Restaurants Study"
+}

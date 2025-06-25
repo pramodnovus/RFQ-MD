@@ -1,0 +1,1 @@
+{'target_group': '18-30 age group Native Americans that grew up in foster care or were adopted.', 'loi': '45-50 Minutes', 'location': 'United States', 'project_type': 'Native American Adoption Survey'}

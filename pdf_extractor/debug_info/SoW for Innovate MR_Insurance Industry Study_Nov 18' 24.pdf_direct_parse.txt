@@ -1,0 +1,1 @@
+{'target_group': 'full-time employed professionals', 'loi': '25-30 minutes', 'location': 'France, German, Insurance Industry', 'project_type': 'Insurance Industry Study'}

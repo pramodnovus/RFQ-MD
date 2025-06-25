@@ -1,0 +1,6 @@
+{
+  "target_group": "Respondents who are aware of capital spending budget at the school level or district level",
+  "loi": "approximately 15-20 Minutes",
+  "location": "United States, K-12, High Schools and Universities",
+  "project_type": "Primary research on the Education Survey"
+}

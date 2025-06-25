@@ -1,0 +1,1 @@
+{'target_group': 'Employees who are very knowledgeable about the industry and current trends of container shipping', 'loi': '20-25 Minutes', 'location': 'North America, Europe and Middle East, Asia', 'project_type': 'Container Shipping Survey (Wave 2)'}

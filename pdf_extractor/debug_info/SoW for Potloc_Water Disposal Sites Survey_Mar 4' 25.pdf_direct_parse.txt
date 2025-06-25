@@ -1,0 +1,1 @@
+{'target_group': 'Landfills / Waste Management Centers, Municipalities', 'loi': '30-35 minutes', 'location': 'Spain, Portugal, Italy, France, United Kingdom', 'project_type': 'WATER DISPOSAL SITES SURVEY'}

@@ -1,0 +1,6 @@
+{
+  "target_group": "Chief, VP, Director",
+  "loi": "25-30 minutes",
+  "location": "North America (85%), United Kingdom (15%)",
+  "project_type": "B2B Industrial Survey"
+}

@@ -1,0 +1,1 @@
+{'target_group': 'Unimrkt will target customers of Central Reach, customers of competitors and non-adopters.', 'loi': 'approximately 35-40 Minutes', 'location': 'United States', 'project_type': 'Primary research on ABA Center Survey'}

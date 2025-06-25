@@ -1,0 +1,1 @@
+{'target_group': 'Full-time and Part-time employees fulfilling certain criteria', 'loi': '20-25 minutes', 'location': 'France, Germany, Italy, Spain, Total Sample (n=) 60', 'project_type': 'Property Management Software Users Survey'}

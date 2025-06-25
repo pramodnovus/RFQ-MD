@@ -1,0 +1,6 @@
+{
+  "target_group": "Pulmonologists & Cardiologists",
+  "loi": "20-25 Minutes",
+  "location": "United States",
+  "project_type": "PAH Study"
+}

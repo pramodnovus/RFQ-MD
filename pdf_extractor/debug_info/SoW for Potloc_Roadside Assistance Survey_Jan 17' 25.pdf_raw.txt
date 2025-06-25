@@ -1,0 +1,6 @@
+{
+  "target_group": "18+ respondents who works for an auto shop that provides local roadside assistance services on behalf of company/motor club",
+  "loi": "approximately 25-30 Minutes",
+  "location": "United States",
+  "project_type": "Roadside Assistance Survey"
+}

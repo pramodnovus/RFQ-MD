@@ -1,0 +1,6 @@
+{
+  "target_group": "Healthcare consumers who are 18 years and above, living in one of the zip codes mentioned in the below client provided list",
+  "loi": "20-25 Minutes",
+  "location": "United States, Georgia, English",
+  "project_type": "Phoebe Putney Health System Brand Tracker Study Wave 3 2024"
+}

@@ -1,0 +1,1 @@
+{'target_group': 'Lock distributor (mostly purchase from manufacturers and sell to wholesalers/retailers) or Lock wholesaler (must purchase from distributors and sell to retailers)', 'loi': '20-25 minutes', 'location': 'United States, Construction, building and home improvement industry', 'project_type': 'Primary research on Residential Door Locks Survey'}

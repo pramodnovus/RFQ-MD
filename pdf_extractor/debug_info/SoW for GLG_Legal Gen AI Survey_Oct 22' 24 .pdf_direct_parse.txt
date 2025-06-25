@@ -1,0 +1,1 @@
+{'target_group': 'buyers of knowledge management solutions', 'loi': '20-25 Minutes', 'location': 'United States, United Kingdom', 'project_type': 'primary research on Legal Gen AI Survey'}

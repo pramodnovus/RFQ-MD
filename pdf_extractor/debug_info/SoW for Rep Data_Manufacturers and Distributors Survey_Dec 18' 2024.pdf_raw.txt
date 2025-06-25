@@ -1,0 +1,6 @@
+{
+  "target_group": "Manufacturers and Distributors",
+  "loi": "45-50 Minutes",
+  "location": "United States",
+  "project_type": "Primary Research"
+}

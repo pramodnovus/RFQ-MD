@@ -1,0 +1,1 @@
+{'target_group': 'Property Owners and Managers SURVEY', 'loi': '30-35 minutes', 'location': 'United States', 'project_type': 'Primary research'}

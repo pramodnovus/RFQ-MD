@@ -1,0 +1,1 @@
+{'target_group': 'Coordinators/Regionals/Consultants, Directors of Rehab or Therapy Services, Facility Admin / Directors, Medical Directors, Procurement Directors', 'loi': '35-40 minutes', 'location': 'US States', 'project_type': 'Skilled Nursing Facilities Survey'}

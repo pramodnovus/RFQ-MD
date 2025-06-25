@@ -1,0 +1,6 @@
+{
+  "target_group": "Unimrkt will target Family Entertainment Centres that have Mini golf, Arcades and Go-Karts.",
+  "loi": "approximately 10-15 Minutes",
+  "location": "United States English",
+  "project_type": "Primary research on FEC Operators Survey"
+}

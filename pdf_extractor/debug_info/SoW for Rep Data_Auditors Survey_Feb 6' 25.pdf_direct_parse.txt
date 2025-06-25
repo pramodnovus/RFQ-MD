@@ -1,0 +1,1 @@
+{'target_group': 'Unimrkt will focus on individuals who meet the following criteria: • Must use Software and AI for auditing purposes • Must be involved in purchasing decisions for company software', 'loi': '20-25 minutes', 'location': 'North America, Europe, DACH (Austria, Switzerland), United Kingdom, Germany', 'project_type': 'Auditors Survey'}

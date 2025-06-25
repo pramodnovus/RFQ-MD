@@ -1,0 +1,6 @@
+{
+  "target_group": "Opinion Leaders",
+  "loi": "30-35 Minutes",
+  "location": "Azerbaijan, English and Local Languages",
+  "project_type": "Research"
+}

@@ -1,0 +1,1 @@
+{'target_group': '• Primary or Sole-Decision Maker\n• Part of the team that makes the final decision\n• Aware of the decision-making process, but not directly involved in the process', 'loi': '20-25 Minutes', 'location': 'Brazil, Mexico, EU5, Eastern Europe, Southeast Asia, Indonesia', 'project_type': 'Patient Monitoring Systems and Imaging Usage Study'}

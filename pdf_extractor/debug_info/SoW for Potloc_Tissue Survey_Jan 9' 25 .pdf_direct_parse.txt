@@ -1,0 +1,1 @@
+{'target_group': 'Individuals/Office Managers fulfilling the below mentioned criteria: • Responsible for purchasing of tissue/toilet papers • Have at least 500 EUR spend/month in tissue products (or local currency equivalent)', 'loi': '25-30 Minutes', 'location': 'Germany, United Kingdom, France, Poland', 'project_type': 'Tissue Survey'}

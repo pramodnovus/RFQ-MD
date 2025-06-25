@@ -1,0 +1,6 @@
+{
+  "target_group": "Fleet owners or business owners (plumber, craftsman, services) who have a fleet of vehicles powered by Diesel",
+  "loi": "20-25 minutes",
+  "location": "United States",
+  "project_type": "Primary research"
+}

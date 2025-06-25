@@ -1,0 +1,6 @@
+{
+  "target_group": "Must be 18+ years of age, Must be working in his current position for more than one year, Must be working for a company or as an individual who has a wealth management department (CGP or CGPI), Must be a decision-maker in purchasing third-party wealth management software.",
+  "loi": "30-35 Minutes",
+  "location": "Country: France; Total Sample (n=) TBD",
+  "project_type": "Wealth Management Software Study"
+}

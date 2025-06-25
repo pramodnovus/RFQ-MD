@@ -1,0 +1,6 @@
+{
+  "target_group": "PARENTS OF STUDENTS IN INDIA STUDY",
+  "loi": "40-45 Minutes",
+  "location": "India",
+  "project_type": ""
+}

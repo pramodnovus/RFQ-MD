@@ -1,0 +1,1 @@
+{'target_group': 'Owners or Operators for Italian Restaurant', 'loi': '25-30 Minutes', 'location': 'United States (Northeast, West, Midwest, Florida)', 'project_type': 'Market Research Study'}

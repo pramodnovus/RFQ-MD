@@ -1,0 +1,1 @@
+{'target_group': 'Manager Level + (good mix of C-Level, Senior Executives, Upper-Level Management, Manager Level) who are involved in decision making for any of the below verticals:', 'loi': '30-35 minutes', 'location': 'North America United States, United Kingdom; Europe France, Germany; Languages: English and local Languages TBD', 'project_type': 'CHANNEL PARTNERS STUDY'}

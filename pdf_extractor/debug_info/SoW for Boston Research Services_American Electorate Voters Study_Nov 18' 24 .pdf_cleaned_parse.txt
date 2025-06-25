@@ -1,0 +1,1 @@
+{'target_group': 'American Electorate Voters Study', 'loi': '15-20 minutes', 'location': 'US States, English and Spanish languages', 'project_type': 'primary research'}

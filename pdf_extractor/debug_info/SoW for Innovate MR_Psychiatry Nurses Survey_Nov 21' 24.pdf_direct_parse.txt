@@ -1,0 +1,1 @@
+{'target_group': 'Psychiatric Nurses working with MDD and BD patients', 'loi': '50-60 minutes', 'location': 'United States', 'project_type': 'Primary research on Psychiatry Nurses Survey'}

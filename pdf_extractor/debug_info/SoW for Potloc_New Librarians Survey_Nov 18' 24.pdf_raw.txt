@@ -1,0 +1,6 @@
+{
+  "target_group": "decision makers for academic database content (e.g. journals, books, videos, dissertations, archival material, etc.)",
+  "loi": "approximately 30-35 Minutes",
+  "location": "United States English TBD",
+  "project_type": "NEW LIBRARIANS SURVEY"
+}

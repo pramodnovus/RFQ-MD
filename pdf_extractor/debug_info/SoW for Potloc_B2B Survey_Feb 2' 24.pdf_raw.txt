@@ -1,0 +1,6 @@
+{
+  "target_group": "End customers and purchasers of hydraulic and pneumatic components from a dealer (upstream distributor) for their own use, Distributors involved in cooperation/purchasing with/from a dealer (upstream distributor) and uses its services for pneumatic and/or hydraulic products",
+  "loi": "35-40 minutes",
+  "location": "Germany",
+  "project_type": "B2B Survey"
+}

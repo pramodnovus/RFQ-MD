@@ -1,0 +1,1 @@
+{'target_group': 'Distributors of Polaris OR BRP Inc. products; C-Suite Executive/Upper Management (e.g., CEO/CFO/Chairperson/VP/Division Head/etc.), Owner, Senior Sales Executive, Senior Marketing Executive, Mid-Level Sales Executive, Mid-level Marketing Executive', 'loi': '15-20 minutes', 'location': 'United States', 'project_type': 'Powersports Study (March Wave)'}

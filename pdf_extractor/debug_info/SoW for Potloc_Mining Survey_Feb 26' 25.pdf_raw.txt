@@ -1,0 +1,6 @@
+{
+  "target_group": "18+ respondents who are typically decision-makers within procurement departments or those responsible for making purchasing decisions",
+  "loi": "approximately 20-25 minutes",
+  "location": "France, Poland, and other countries (n=100)",
+  "project_type": "MINING SURVEY"
+}

@@ -1,0 +1,6 @@
+{
+  "target_group": "Portfolio Manager, VP Asset Management, Director / VP Portfolio Strategy",
+  "loi": "25-30 minutes",
+  "location": "Cities: Toronto, New York, London. Industries: Investment/Banking/Asset Management/Private Equity/Real Estate.",
+  "project_type": "Asset Management Study"
+}

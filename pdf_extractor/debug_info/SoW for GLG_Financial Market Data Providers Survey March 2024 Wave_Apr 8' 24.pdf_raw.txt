@@ -1,0 +1,6 @@
+{
+  "target_group": "Decision makers or key influencers from companies that specialise in fixed income and Debt only investments and use ICE Data Services (IDC).",
+  "loi": "approximately 10 minutes.",
+  "location": "US, EU5 (France, Germany, Italy, Spain and the United Kingdom), Switzerland.",
+  "project_type":"Financial Market Data Providers Survey"
+}

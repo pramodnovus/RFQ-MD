@@ -1,0 +1,6 @@
+{
+  "target_group": "Full/part-time or not currently employed respondents fulfilling the below mentioned criteria: • Must not use Bloomberg Terminal, Prontovis Index, Vendox System products or share an account of this with others as well • Must have completed any of the following levels of education: o Bachelor’s Degree Holder o Master’s Degree Holder o Doctoral Degree Holder • Must have an experience with Bloomberg products and solutions in News/Media (TV, Websites, Apps) area.",
+  "loi": "Approximately 25-30 Minutes",
+  "location": "United Kingdom; Republic of Ireland; Countries Language Sample: English Best Efforts; Total Sample (n=) Best Efforts",
+  "project_type": "Primary research on Bloomberg Survey"
+}

@@ -1,0 +1,6 @@
+{
+  "target_group": "Financial Planners, Financial Advisors, Accountants, Business Owners, and Company Managers",
+  "loi": "20-25 Minutes",
+  "location": "France",
+  "project_type": "B2B IN FRANCE STUDY"
+}

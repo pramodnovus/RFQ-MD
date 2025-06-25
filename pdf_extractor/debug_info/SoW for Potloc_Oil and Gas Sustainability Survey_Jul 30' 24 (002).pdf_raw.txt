@@ -1,0 +1,6 @@
+{
+  "target_group": "18+ Directors who are involved in the direct management regarding the companies low carbon initiatives",
+  "loi": "25-30 minutes",
+  "location": "Kingdom of Saudi Arabia, Kuwait, Qatar, Middle East Iran, Iraq, Oman, Jordan, Algeria, Nigeria, South Africa, Africa, Egypt, Lybia, Angola, Mexico, Brazil, LATAM Argentina, Venezuela, Colombia, United Kingdom, Europe France, Italy, China, Japan, South Korea, APAC Australia, Singapore, Taiwan, United States, North America, Canada",
+  "project_type": "OIL AND GAS SUSTAINABILITY SURVEY"
+}

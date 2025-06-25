@@ -1,0 +1,1 @@
+{'target_group': 'Law Firms with 100+ attorneys who currently use LexisNexis (RELX) or Westlaw (Thomson Reuters)', 'loi': '20-25 minutes', 'location': 'United States', 'project_type': 'Primary research on Lexis Nexis Westlaw Study'}

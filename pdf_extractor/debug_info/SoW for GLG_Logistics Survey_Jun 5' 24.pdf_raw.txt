@@ -1,0 +1,6 @@
+{
+  "target_group": "Unimrkt will target decision makers- Office Segments that are involved in the selection of parcel delivery provider such as: COO, Head of Supply Chain, Head of Procurement",
+  "loi": "approximately 30-35 minutes",
+  "location": "Country: United Kingdom; Total Sample (n=): 35",
+  "project_type": "Logistics Survey"
+}

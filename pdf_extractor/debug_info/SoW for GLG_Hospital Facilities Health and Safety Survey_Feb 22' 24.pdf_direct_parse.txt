@@ -1,0 +1,1 @@
+{'target_group': 'Unimrkt will target respondents who must be an influencer or decision maker for purchases at their unit.', 'loi': 'approximately 25-30 Minutes', 'location': 'United States, European Union, Other Countries (50% + 40% + 10%)', 'project_type': 'Hospital Facilities Health and Safety Survey'}

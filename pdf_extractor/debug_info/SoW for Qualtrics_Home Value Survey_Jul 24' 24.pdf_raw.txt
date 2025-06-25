@@ -1,0 +1,6 @@
+{
+  "target_group": "Real Estate Agents fulfilling the mentioned criteria: • 25+ of age • Having HHI of $100K+",
+  "loi": "approximately 10-15 Minutes",
+  "location": "United States, Canada",
+  "project_type": "Home Value Survey"
+}

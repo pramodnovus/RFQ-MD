@@ -1,0 +1,6 @@
+{
+  "target_group": "adult individuals",
+  "loi": "20-25 Minutes",
+  "location": "United States, China, Europe (United Kingdom, France, and Germany)",
+  "project_type": "Solvent Recovery Units Survey"
+}

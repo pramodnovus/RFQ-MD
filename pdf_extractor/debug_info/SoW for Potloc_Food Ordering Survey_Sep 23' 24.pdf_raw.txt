@@ -1,0 +1,6 @@
+{
+  "target_group": "Unimrkt will target US Nat reps while targeting minimum 40% on each gender (Male/Female) and respondents fulfilling the below-mentioned criteria: • Must be less than 65 years of age • Must not be working for an Advertisement Company",
+  "loi": "25-30 minutes",
+  "location": "United States, Country Regions Language Sample - Northeast 25, South 36, Midwest 18, West 21, Total Sample (n=) 100",
+  "project_type": "Primary research on Food Ordering Survey"
+}

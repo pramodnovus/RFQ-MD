@@ -1,0 +1,1 @@
+{'target_group': 'scientists working at drug developers in cell therapy space with influence over decision as to which cell culture media to use as part of workflow', 'loi': 'approximately 30-35 minutes', 'location': 'United States, Canada, EMEA (Countries/Region)', 'project_type': 'Cell Culture Media Survey'}

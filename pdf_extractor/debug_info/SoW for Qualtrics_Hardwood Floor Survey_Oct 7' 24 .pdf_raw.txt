@@ -1,0 +1,6 @@
+{
+  "target_group": "professional flooring installers that puts in hard surface",
+  "loi": "60 minutes",
+  "location": "United States",
+  "project_type": "HARDWOOD FLOOR SURVEY"
+}

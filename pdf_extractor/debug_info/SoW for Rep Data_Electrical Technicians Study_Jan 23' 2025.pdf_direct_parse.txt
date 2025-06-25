@@ -1,0 +1,1 @@
+{'target_group': 'ELECTRICAL TECHNICIANS STUDY', 'loi': '30-35 Minutes', 'location': 'United States, Canada', 'project_type': 'Primary research'}

@@ -1,0 +1,1 @@
+{'target_group': '18+ electricians (men/women)', 'loi': '20-25 minutes', 'location': 'Ireland, Country Language Sample', 'project_type': 'ELECTRICIANS SURVEY'}

@@ -1,0 +1,1 @@
+{'target_group': 'Procurement, Sales, Product Managers/ Sustainability/ Top Management', 'loi': '30-35 Minutes', 'location': 'France, Europe, Germany, United Kingdom, United States, North America, Canada, South America, Brazil, China, APAC, India, Japan', 'project_type': 'Primary research on Customer Trends in Sustainability Survey'}

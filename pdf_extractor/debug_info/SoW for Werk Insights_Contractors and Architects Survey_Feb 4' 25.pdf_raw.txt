@@ -1,0 +1,6 @@
+{
+  "target_group": "Contractors and Architects",
+  "loi": "25-30 Minutes",
+  "location": "United States",
+  "project_type": ""
+}

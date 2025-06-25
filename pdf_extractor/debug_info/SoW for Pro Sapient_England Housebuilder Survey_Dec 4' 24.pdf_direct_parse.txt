@@ -1,0 +1,1 @@
+{'target_group': 'England-based adults (18+) who have purchased a new build house in the past 5 years, must have viewed a new build house in the past year', 'loi': '20-25 minutes', 'location': 'England', 'project_type': 'primary research'}

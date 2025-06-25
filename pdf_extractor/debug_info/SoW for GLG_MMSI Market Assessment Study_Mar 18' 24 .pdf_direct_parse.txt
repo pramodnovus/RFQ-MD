@@ -1,0 +1,1 @@
+{'target_group': 'Sales Professionals for surgical/medical consumables', 'loi': 'approximately 20-25 Minutes', 'location': 'United States, Country Language Sample: English, Total Sample (n=) 40', 'project_type': 'MMSI MARKET ASSESSMENT STUDY'}

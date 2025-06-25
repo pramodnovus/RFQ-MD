@@ -1,0 +1,6 @@
+{
+  "target_group": "Parents of K-12 children who are Pacific islanders.",
+  "loi": "approximately 20-25 minutes",
+  "location": "United States",
+  "project_type": "Pacific Islanders Survey"
+}

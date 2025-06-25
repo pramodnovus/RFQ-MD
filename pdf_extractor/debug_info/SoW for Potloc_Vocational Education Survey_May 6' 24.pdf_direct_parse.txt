@@ -1,0 +1,1 @@
+{'target_group': '18+ Aluminis', 'loi': '20-25 minutes', 'location': 'Spain, Country Language Sample', 'project_type': 'VOCATIONAL EDUCATION SURVEY'}

@@ -1,0 +1,1 @@
+{'target_group': 'Parents of Children (B2C)', 'loi': '25-30 minutes', 'location': 'State of US, New York', 'project_type': 'Primary research'}

@@ -1,0 +1,6 @@
+{
+  "target_group": "current customers of HotDocs who have influence on decision-making regarding the Document Management Solution",
+  "loi": "20-25 Minutes",
+  "location": "Countries Language Sample, United States, Canada, United Kingdom",
+  "project_type": ""
+}

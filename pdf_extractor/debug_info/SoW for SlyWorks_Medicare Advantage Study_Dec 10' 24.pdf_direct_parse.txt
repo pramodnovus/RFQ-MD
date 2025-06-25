@@ -1,0 +1,1 @@
+{'target_group': "Unimrkt will target the respondents fulfilling the below mentioned criteria: • Must be 65 years of age or older • Must be enrolled in Medicare Advantage Plan • Must be Non-Tech savvy; (e.g., don't have email)", 'loi': 'approximately 20-25 Minutes', 'location': 'United States', 'project_type': 'Medicare Advantage Study'}

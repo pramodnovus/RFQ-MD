@@ -1,0 +1,6 @@
+{
+  "target_group": "electrical distributors (e.g., selling wholesale electrical supplies like lighting fixtures, switches, controllers) to professional audiences (e.g., electricians/electrical contractors)",
+  "loi": "30-35 Minutes",
+  "location": "United States",
+  "project_type": "Primary research"
+}

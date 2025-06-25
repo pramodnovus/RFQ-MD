@@ -1,0 +1,1 @@
+{'target_group': 'professionals who know the purchasing criteria and level of satisfaction for hiring compact construction equipment', 'loi': '20-25 minutes', 'location': 'France, Country Language Sample (70-80)', 'project_type': 'Construction Equipment Study'}

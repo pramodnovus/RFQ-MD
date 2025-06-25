@@ -1,0 +1,6 @@
+{
+  "target_group": "Unimrkt will target the full-time contractors fulfilling the below mentioned criteria: • Must have 50% of their work in residential (single-family housing) • Must install either siding or build fences (or both):",
+  "loi": "20-25 Minutes",
+  "location": "United States English 100",
+  "project_type": "Contractors Survey"
+}

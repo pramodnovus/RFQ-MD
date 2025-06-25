@@ -1,0 +1,6 @@
+{
+  "target_group": "Fleet decision-makers responsible for their fleet's investment in and use of technology.",
+  "loi": "20-25 Minutes",
+  "location": "United States",
+  "project_type": "Primary research on Fleets utilizing telematics Study"
+}

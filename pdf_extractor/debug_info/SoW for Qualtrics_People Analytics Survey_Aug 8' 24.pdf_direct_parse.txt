@@ -1,0 +1,1 @@
+{'target_group': 'full-time employee; Must sit within the business intelligence function; Must be a decision maker or have influence in decisions making for Purchasing Experience Management Software', 'loi': '20-25 Minutes', 'location': 'United States, Australia/New Zealand', 'project_type': 'People Analytics Survey'}

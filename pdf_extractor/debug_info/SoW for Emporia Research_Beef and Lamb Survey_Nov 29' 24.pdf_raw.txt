@@ -1,0 +1,6 @@
+{
+  "target_group": "Retailer, Food service, Manufacturer, Distributor, Trader",
+  "loi": "20-25 Minutes",
+  "location": "Germany, Austria, Belgium, Sweden",
+  "project_type": "Primary research on Beef and Lamb Survey"
+}

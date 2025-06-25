@@ -1,0 +1,1 @@
+{'target_group': 'Credit Union Executives', 'loi': '20-30 Minutes', 'location': 'United States', 'project_type': 'Primary research'}

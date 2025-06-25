@@ -1,0 +1,1 @@
+{'target_group': 'customers of Geotechnical engineering companies; Large General Contractor, Infrastructure and Construction Companies, Real Estate Developers', 'loi': '30-35 Minutes', 'location': 'Spain, Romania, Mexico', 'project_type': 'Geotechnical Service Industry Study'}

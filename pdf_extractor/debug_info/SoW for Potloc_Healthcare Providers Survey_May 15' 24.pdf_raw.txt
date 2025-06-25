@@ -1,0 +1,6 @@
+{
+  "target_group": "Healthcare Providers",
+  "loi": "20-25 Minutes",
+  "location": "Nigeria Lagos Province",
+  "project_type": "Primary Research"
+}

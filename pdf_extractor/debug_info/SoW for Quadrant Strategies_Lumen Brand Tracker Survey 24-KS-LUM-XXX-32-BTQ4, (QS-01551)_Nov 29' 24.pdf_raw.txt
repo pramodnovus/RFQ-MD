@@ -1,0 +1,6 @@
+{
+  "target_group": "ITDMs (Manager+)",
+  "loi": "30-35 Minutes",
+  "location": "US States Language Sample",
+  "project_type":"..."
+}

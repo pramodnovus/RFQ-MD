@@ -1,0 +1,1 @@
+{'target_group': 'Affluent and HNWI’s Survey', 'loi': '20-25 Minutes', 'location': 'Kingdom of Saudi Arabia English/Arabic', 'project_type': 'Primary research'}

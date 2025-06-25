@@ -1,0 +1,1 @@
+{'target_group': 'CEO, CIO, CFO, Owner, Managers+ in IT Operations, Finance, Field Services, Project Managers', 'loi': '20-25 Minutes', 'location': 'Australia, United States, United Kingdom, Countries Language Sample', 'project_type': 'Field Service Management Software Solutions Survey'}

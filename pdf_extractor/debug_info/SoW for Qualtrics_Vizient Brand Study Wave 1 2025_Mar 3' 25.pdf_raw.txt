@@ -1,0 +1,6 @@
+{
+  "target_group": "C Suite, VP/EVP/SVP, Director",
+  "loi": "30-35 Minutes",
+  "location": {
+    "region/country/geography": "United States"
+  }

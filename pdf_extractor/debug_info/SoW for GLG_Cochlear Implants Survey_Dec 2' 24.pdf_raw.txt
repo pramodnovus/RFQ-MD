@@ -1,0 +1,12 @@
+{
+  "target_group": "Audiologists who fit cochlear implants (at least 1)",
+  "loi": "25-30 Minutes",
+  "location": {
+    "region/country/geography": [
+      "United States",
+      "Germany",
+      "United Kingdom",
+      "France",
+      "China"
+    ]
+  }

@@ -1,0 +1,6 @@
+{
+  "target_group": "Lab Manager, Lab Coordinator, Lab Technician, IT Security, IT Director, Procurement Director, Chief Executive Officer, Chief Information Officer, Cyber Security Lab Assistant/Technician",
+  "loi": "25-30 Minutes",
+  "location": "Brazil, Mexico",
+  "project_type": "LAB PLATFORMS STUDY"
+}

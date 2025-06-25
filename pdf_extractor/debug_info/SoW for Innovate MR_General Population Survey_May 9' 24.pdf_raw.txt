@@ -1,0 +1,6 @@
+{
+  "target_group": "Male/Female aged 25 years or older with a household income of more than $70k. Must own a primary property. Must consider buying a second home outside of your home country.",
+  "loi": "20-25 minutes",
+  "location": "Bahrain, Iraq (Countries), Arabic (Language)",
+  "project_type": "General Population Survey"
+}

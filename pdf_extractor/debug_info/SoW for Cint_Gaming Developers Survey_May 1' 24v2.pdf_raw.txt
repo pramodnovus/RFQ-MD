@@ -1,0 +1,6 @@
+{
+  "target_group": "Professional game developers who have an influence on decision making or be the final decision makers. Some of them should be users and non-users of Unity products.",
+  "loi": "Approximately 1 Hour 15 Minutes",
+  "location": "Countries Language Sample: United States, Canada",
+  "project_type": "Gaming Developers Survey"
+}

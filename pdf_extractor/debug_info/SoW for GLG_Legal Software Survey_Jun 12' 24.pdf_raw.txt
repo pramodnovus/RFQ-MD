@@ -1,0 +1,6 @@
+{
+  "target_group": "decision makers for CLM software",
+  "loi": "20-25 minutes",
+  "location": "United States",
+  "project_type": "Legal Software Survey"
+}

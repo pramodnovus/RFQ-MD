@@ -1,0 +1,6 @@
+{
+  "target_group": "B2B Healthcare Executives who are the decision makers or above such as Healthcare Providers or Payors",
+  "loi": "approximately 20-25 Minutes",
+  "location": "United States",
+  "project_type": "primary research on Healthcare Executives Survey"
+}

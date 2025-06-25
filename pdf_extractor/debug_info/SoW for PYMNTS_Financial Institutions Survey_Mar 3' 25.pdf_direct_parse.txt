@@ -1,0 +1,1 @@
+{'target_group': 'Credit Underwriting, Commercial Landing, Customer Acquisition, Risk Management and Compliance', 'loi': '20-30 Minutes', 'location': 'United States, United Kingdom', 'project_type': 'Financial Institutions Survey'}

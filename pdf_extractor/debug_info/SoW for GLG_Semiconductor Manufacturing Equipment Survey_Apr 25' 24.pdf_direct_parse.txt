@@ -1,0 +1,1 @@
+{'target_group': 'Users of wafer handling solutions, technicians, C-Suite, Director/VP of Business Development, Procurement (DMs)', 'loi': '25-30 Minutes', 'location': 'Taiwan, South Korea, Japan', 'project_type': 'Semiconductor Manufacturing Equipment Survey'}

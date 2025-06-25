@@ -1,0 +1,6 @@
+{
+  "target_group": "current Horse Owners",
+  "loi": "approximately 25-30 minutes",
+  "location": "Belgium, France, Germany, United Kingdom, Spain, United States, Netherlands, Ireland",
+  "project_type": "primary research"
+}

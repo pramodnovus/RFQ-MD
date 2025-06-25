@@ -1,0 +1,1 @@
+{'target_group': '18+ age of respondents who are involved in North Sea operations (oilfields, offshore drilling platforms)', 'loi': '25-30 minutes', 'location': 'Region: Western and Northern Europe; Country/Geography: Can live in any country as long as they are involved in North Sea operations', 'project_type': 'B2B OIL AND GAS SURVEY'}

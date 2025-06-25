@@ -1,0 +1,6 @@
+{
+  "target_group": "Operations and Business Development, Sales",
+  "loi": "20-25 minutes",
+  "location": "United States",
+  "project_type": "Pest Control Trends Study"
+}

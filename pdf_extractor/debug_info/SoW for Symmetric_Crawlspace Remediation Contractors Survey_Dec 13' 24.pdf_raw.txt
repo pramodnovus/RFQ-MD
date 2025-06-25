@@ -1,0 +1,6 @@
+{
+  "target_group": "Crawlspaces, Basements, and/or pile/stilt foundations",
+  "loi": "25-30 minutes",
+  "location": "United States",
+  "project_type": "Primary research on Crawlspace Remediation Contractors Survey"
+}

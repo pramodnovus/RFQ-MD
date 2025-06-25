@@ -1,0 +1,6 @@
+{
+  "target_group": "Unimrkt will target Manager+ seniority under the following functions: • Trade Compliance • Risk • ESG • Legal & Compliance • General Counsel • Procurement DMs (no C-Suites) • Supply Chain Management",
+  "loi": "approximately 25-30 minutes",
+  "location": "United Kingdom, Germany, France, *Belgium, *Netherlands",
+  "project_type": "ESG SOLUTIONS SURVEY"
+}

@@ -1,0 +1,1 @@
+{'target_group': 'IT resellers - Sales, Marketing Operations', 'loi': '20-25 minutes', 'location': 'Japan, South Korea', 'project_type': 'Primary research on IT Resellers Survey (Wave 5)'}

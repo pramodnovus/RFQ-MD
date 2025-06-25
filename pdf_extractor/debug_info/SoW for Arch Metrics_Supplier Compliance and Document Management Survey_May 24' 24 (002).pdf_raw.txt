@@ -1,0 +1,6 @@
+{
+  "target_group": "the major influencer or the final decision maker in terms of making decisions specifically around supplier compliance (monitor real-time supplier compliance and documentation issues, generate supplier scorecards) and supplier management (collect, update, and centralize supplier documentation) tools usage at their company.",
+  "loi": "approximately 20-25 Minutes",
+  "location": "United States, Canada",
+  "project_type": "Supplier Compliance and Document Management Survey"
+}

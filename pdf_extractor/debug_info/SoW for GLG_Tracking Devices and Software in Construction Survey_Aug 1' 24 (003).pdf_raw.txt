@@ -1,0 +1,6 @@
+{
+  "target_group": "Full-Time and Self-employed employees/Business Owners responsible for the following: • Responsible for multiple construction or mining sites, but not for all of their company’s sites • Responsible for/ overseeing all of their company’s construction or mining sites",
+  "loi": "20-25 minutes",
+  "location": "United States, United Kingdom, Austria, Belgium, Denmark, Finland, France, Germany, Greece, Ireland, Italy, Luxembourg, Netherlands, Norway, Poland, Spain, Sweden",
+  "project_type": "Tracking Devices and Software in Construction Survey"
+}

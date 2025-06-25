@@ -1,0 +1,6 @@
+{
+  "target_group": "NP/PA, Psychologists",
+  "loi": "20 Minutes",
+  "location": "United States, Canada",
+  "project_type":"Primary Research"
+}

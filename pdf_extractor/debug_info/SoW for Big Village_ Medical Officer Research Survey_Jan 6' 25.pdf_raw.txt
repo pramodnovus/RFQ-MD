@@ -1,0 +1,6 @@
+{
+  "target_group": "respondents who are 18 years old and above",
+  "loi": "20-25 Minutes",
+  "location": "United States",
+  "project_type": "Medical Officer Research Survey"
+}

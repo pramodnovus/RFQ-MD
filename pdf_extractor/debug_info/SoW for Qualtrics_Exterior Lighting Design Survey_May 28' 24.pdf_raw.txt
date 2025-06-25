@@ -1,0 +1,6 @@
+{
+  "target_group": "professionals who have experience as either an electrician, general contractor, or similar role installing exterior commercial building lighting.",
+  "loi": "approximately 45 Minutes",
+  "location": "United States",
+  "project_type": "Exterior Lighting Design Survey"
+}
